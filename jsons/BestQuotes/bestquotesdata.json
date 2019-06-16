@@ -1,5 +1,5 @@
 [{
-	"version": "1.31",
+	"version": "1.33",
 	"data_en": [{
 			"item": "Action",
 			"details": [{
@@ -118,6 +118,11 @@
 				{
 					"id": "302",
 					"quote": "People make mistakes gain experience, and learned from them and it all counts as part of life lessons.",
+					"author": ""
+				},
+				{
+					"id": "303",
+					"quote": "Never argue with stupid people, they will drag you down to their level and then beat you with experience.",
 					"author": ""
 				}
 			]
