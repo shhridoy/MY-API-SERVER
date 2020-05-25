@@ -18,5 +18,10 @@
 		"app_name" : "Missile Car",
 		"app_icon_url" : "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/icon_missile_car.png",
 		"app_url" : "https://play.google.com/store/apps/details?id=com.shhridoy.missilecar"
+	},
+	{
+		"app_name" : "আমার ক্যালকুলেটর (Calculator)",
+		"app_icon_url" : "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/icon_bangla_calculator.png",
+		"app_url" : "https://play.google.com/store/apps/details?id=com.shhridoy.banglacalculator"
 	}
 ]
