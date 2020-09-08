@@ -168,42 +168,42 @@
 				{
 					"id": "309",
 					"quote": "Experience imparts ability on what to do and confidence makes you wise enough on how to do.",
-                                        "author": ""
+                    "author": ""
 				},
 				{
 					"id": "310",
 					"quote": "Experience is not what happens to you. It is what you do with what happens to you.",
-                                        "author": ""
+                    "author": ""
 				},
 				{
 					"id": "311",
 					"quote": "Bad things happen to everyone. It isnt your experiences that define your life. Its your responses that make or break you.",
-                                        "author": ""
+                    "author": ""
 				},
 				{
 					"id": "312",
 					"quote": "We have to be willing to fail, to be wrong, to start over again with lessons learned.",
-                                        "author": ""
+                    "author": ""
 				},
 				{
 					"id": "313",
 					"quote": "To live is to experience things, not sit around pondering the meaning of life.",
-                                        "author": ""
+                    "author": ""
 				},
 				{
 					"id": "314",
 					"quote": "Every struggle arises for a reason for experience or a lesson. A great journey is never easy, and no dose of adversity along the way is ever a waste of time if you learn and grow from it.",
-                                        "author": ""
+                    "author": ""
 				},
 				{
 					"id": "315",
 					"quote": "Even the hard times are a part of your life story. If you acknowledge them and move past them, they eventually add up to the experience that makes you wise.",
-                                        "author": ""
+                    "author": ""
 				},
 				{
 					"id": "316",
 					"quote": "Life is a succesion of lessons which must be lived to be understood.",
-                                        "author": ""
+                    "author": ""
 				}
 			]
 		},
@@ -252,42 +252,136 @@
 				{
 					"id": "409",
 					"quote": "Always remember that your present situation is not your final destination. The best is yet to come.",
-                                        "author": ""
+                    "author": ""
 				},
 				{
 					"id": "410",
 					"quote": "Never give up; great things take time to happen.",
-                                        "author": ""
+                    "author": ""
 				},
 				{
 					"id": "411",
 					"quote": "We've all felt pain, but remember every storm runs out of rain. So keep your head up and don't let life knock you down, don't let want others say get you down. You're much stronger that you believe, so don't give up.",
-                                        "author": ""
+                    "author": ""
 				},
 				{
 					"id": "412",
 					"quote": "Don't give up just because things are hard.",
-                                        "author": ""
+                    "author": ""
 				},
 				{
 					"id": "413",
 					"quote": "There will be lots of ups and downs in your life. But never give up and cherish every single moment of your life.",
-                                        "author": ""
+                    "author": ""
 				},
 				{
 					"id": "414",
 					"quote": "No matter how hard it is, never loose faith in God. Trust in God and God will help you.",
-                                        "author": ""
+                    "author": ""
 				},
 				{
 					"id": "415",
 					"quote": "When faced with life's greatest storms, never underestimate your own strength its during these storms you will find strength. Believe in yourself never give up.",
-                                        "author": ""
+                    "author": ""
 				},
 				{
 					"id": "416",
 					"quote": "There will be times in life when you cannot succeed. Or times when hardship seems about to crush you. Such times are inevitable, yet we should not allow our spirits to be broken by them.",
-                                        "author": ""
+                    "author": ""
+				},
+				{
+					"id": "417",
+					"quote": "Being confident is what keeps you going, never lose faith.",
+                    "author": ""
+				},
+				{
+					"id": "418",
+					"quote": "Strength comes from confidence and courage not to give up.",
+                    "author": ""
+				},
+				{
+					"id": "419",
+					"quote": "If plan A didn't worked, the alphabet has 25 more letters. Stay cool!",
+                    "author": ""
+				},
+				{
+					"id": "420",
+					"quote": "If you like the rainbow, you have to learn to endure storm.",
+                    "author": ""
+				},
+				{
+					"id": "421",
+					"quote": "Don't give up just because things are hard. Stay focused.",
+                    "author": ""
+				},
+				{
+					"id": "422",
+					"quote": "When faced with life's greatest storms, never underestimate your own strength its during these storms you will find strength. Believe in yourself never give up.",
+                    "author": ""
+				},
+				{
+					"id": "423",
+					"quote": "Be an inspiration to others by refusing to give up. Who knows what someone else can achieve because you never gave up and in turn inspired them not to give up.",
+                    "author": ""
+				},
+				{
+					"id": "424",
+					"quote": "The pain when you fail is not to convince you to stop, but to be overcome so you can find success there and move on.",
+                    "author": ""
+				}
+			]
+		},
+		{
+			"item": "Moving forward",
+			"details": [{
+					"id": "501",
+					"quote": "Worry looks around, fear looks back, faith looks up, guilt looks down, but I look forward.",
+					"author": ""
+				},
+				{
+					"id": "502",
+					"quote": "Haters might be able to slow me down, but they ain't going to break me.",
+					"author": ""
+				},
+				{
+					"id": "503",
+					"quote": "A goog plan of today is better than a great plan of tomorrow. Look back with satisfaction and move forward with confidence.",
+					"author": ""
+				},
+				{
+					"id": "504",
+					"quote": "Live brightly, leave fear and move forward one step at a time with faith and confidence in the future.",
+					"author": ""
+				},
+				{
+					"id": "505",
+					"quote": "Sometimes your only available transportation is a leap of faith.",
+					"author": ""
+				},
+				{
+					"id": "506",
+					"quote": "Being happy does not mean at all that things are perfect. It clearly means you have decided to peep into and look beyond imperfections.",
+					"author": ""
+				},
+				{
+					"id": "507",
+					"quote": "When you feel defeaed, just push forward and keep going, prove to yourself that you'll never stay down.",
+					"author": ""
+				},
+				{
+					"id": "508",
+					"quote": "Keep you head and heart going in the right direction, and you won't have to worry about your feet.",
+					"author": ""
+				},
+				{
+					"id": "509",
+					"quote": "No matter how far someone pushes your, never ever think of giving up, sooner or later something better in your life will come along and you'll be happy you didn't.",
+					"author": ""
+				},
+				{
+					"id": "510",
+					"quote": "Don't just follow the line. To be a Star - Shine!",
+					"author": ""
 				}
 			]
 		}
