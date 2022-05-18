@@ -1,0 +1,27 @@
+{
+    "title": "Persons",
+    "person_list": [
+      {
+        "empId": "1",
+        "name": "দেব কুমার মালো",
+        "image": "http://file-chittagong.portal.gov.bd/files/pbs2.chandpur.gov.bd/officer_list/ff098132_7091_41c8_a769_0e71fd23fd99/5e749df07430c7b7c9bf011fa41ab5d6.png",
+        "designation": "জেনারেল ম্যানেজার",
+        "mobile_1": "01769402151",
+        "mobile_2": "0841-65111",
+        "email": "nomaddeb8@gmail.com",
+        "section": "Office Head",
+        "office": "HQ"
+      },
+      {
+        "empId": "2",
+        "name": "মোহাম্মদ কামাল হোসেন",
+        "image": "http://file-chittagong.portal.gov.bd/uploads/f7040cc7-d4d4-47fa-b7b9-c38f63431d88//61d/573/514/61d57351416e1977980123.jpeg",
+        "designation": "ডেপুটি জেনারেল ম্যানেজার",
+        "mobile_1": "01769400095",
+        "mobile_2": "",
+        "email": "fzo.cpbs2@gmail.com",
+        "section": "Office Head",
+        "office": "FZO"
+      }
+    ]
+  }

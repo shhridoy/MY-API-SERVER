@@ -1,0 +1,42 @@
+{
+    "version" : "1.0",
+    "home_menu" : [
+        
+        {
+            "order_no" : 0,
+            "id" : 1,
+            "title" : "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড",
+            "icon" : "https://cdn-icons.flaticon.com/png/512/2988/premium/2988036.png?token=exp=1652875274~hmac=fbf436c97b75a27ff7c0a77d2a8f2b20",
+            "sub_menu" : [],
+            "details_link" : ""
+        },
+        {
+            "order_no" : 1,
+            "id" : 2,
+            "title" : "চেয়ারম্যান মহোদয়ের বার্তা",
+            "icon" : "https://cdn-icons-png.flaticon.com/512/2950/2950609.png",
+            "sub_menu" : [],
+            "details_link" : ""
+        },
+        {
+            "order_no" : 0,
+            "id" : 1,
+            "title" : "একনজরে চাঁদপুর পবিস-২",
+            "icon" : "https://cdn-icons-png.flaticon.com/512/2979/2979594.png",
+            "sub_menu" : [],
+            "details_link" : ""
+        },
+        {
+            "order_no" : 1,
+            "id" : 2,
+            "title" : "জেনারেল ম্যানেজার মহোদয়ের বার্তা",
+            "icon" : "https://cdn-icons-png.flaticon.com/512/4312/4312248.png",
+            "sub_menu" : [],
+            "details_link" : ""
+        }
+        
+    ],
+    "drawer_menu" : [
+        
+    ]
+}
