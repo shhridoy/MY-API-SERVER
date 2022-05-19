@@ -19,18 +19,114 @@
             "details_link" : ""
         },
         {
-            "order_no" : 0,
-            "id" : 1,
+            "order_no" : 2,
+            "id" : 3,
             "title" : "একনজরে চাঁদপুর পবিস-২",
             "icon" : "https://cdn-icons-png.flaticon.com/512/2979/2979594.png",
             "sub_menu" : [],
             "details_link" : ""
         },
         {
-            "order_no" : 1,
-            "id" : 2,
+            "order_no" : 3,
+            "id" : 4,
             "title" : "জেনারেল ম্যানেজার মহোদয়ের বার্তা",
             "icon" : "https://cdn-icons-png.flaticon.com/512/4312/4312248.png",
+            "sub_menu" : [],
+            "details_link" : ""
+        },
+        {
+            "order_no" : 4,
+            "id" : 5,
+            "title" : "সমিতি বোর্ড",
+            "icon" : "https://cdn-icons-png.flaticon.com/512/1376/1376519.png",
+            "sub_menu" : [],
+            "details_link" : ""
+        },
+        {
+            "order_no" : 5,
+            "id" : 6,
+            "title" : "চাঁদপুর পবিস-২ (সদর দপ্তর)",
+            "icon" : "https://cdn-icons-png.flaticon.com/512/4091/4091968.png",
+            "sub_menu" : [],
+            "details_link" : ""
+        },
+        {
+            "order_no" : 6,
+            "id" : 7,
+            "title" : "ফরিদগঞ্জ জোনাল অফিস",
+            "icon" : "https://cdn-icons.flaticon.com/png/512/2086/premium/2086048.png?token=exp=1652932816~hmac=7251562988d6dfaff8ec11b7b641564f",
+            "sub_menu" : [],
+            "details_link" : ""
+        },
+        {
+            "order_no" : 7,
+            "id" : 8,
+            "title" : "মতলব উত্তর জোনাল অফিস",
+            "icon" : "https://cdn-icons.flaticon.com/png/512/2086/premium/2086048.png?token=exp=1652932816~hmac=7251562988d6dfaff8ec11b7b641564f",
+            "sub_menu" : [],
+            "details_link" : ""
+        },
+        {
+            "order_no" : 8,
+            "id" : 9,
+            "title" : "মতলব দক্ষিণ জোনাল অফিস",
+            "icon" : "https://cdn-icons.flaticon.com/png/512/2086/premium/2086048.png?token=exp=1652932816~hmac=7251562988d6dfaff8ec11b7b641564f",
+            "sub_menu" : [],
+            "details_link" : ""
+        },
+        {
+            "order_no" : 9,
+            "id" : 10,
+            "title" : "হাইমচর সাব-জোনাল অফিস",
+            "icon" : "https://cdn-icons.flaticon.com/png/512/2086/premium/2086048.png?token=exp=1652932816~hmac=7251562988d6dfaff8ec11b7b641564f",
+            "sub_menu" : [],
+            "details_link" : ""
+        },
+        {
+            "order_no" : 10,
+            "id" : 11,
+            "title" : "কামতা সাব-জোনাল অফিস",
+            "icon" : "https://cdn-icons.flaticon.com/png/512/2086/premium/2086048.png?token=exp=1652932816~hmac=7251562988d6dfaff8ec11b7b641564f",
+            "sub_menu" : [],
+            "details_link" : ""
+        },
+        {
+            "order_no" : 11,
+            "id" : 12,
+            "title" : "উপকেন্দ্র সমূহ",
+            "icon" : "https://cdn-icons-png.flaticon.com/512/4882/4882999.png",
+            "sub_menu" : [],
+            "details_link" : ""
+        },
+        {
+            "order_no" : 12,
+            "id" : 13,
+            "title" : "অভিযোগ কেন্দ্র সমূহ",
+            "icon" : "https://cdn-icons-png.flaticon.com/512/2016/2016266.png",
+            "sub_menu" : [],
+            "details_link" : ""
+        },
+        {
+            "order_no" : 13,
+            "id" : 14,
+            "title" : "জেলার জরুরী যোগাযোগ",
+            "icon" : "https://cdn-icons.flaticon.com/png/512/3900/premium/3900771.png?token=exp=1652933538~hmac=65515be9188f86194598e579cc5db358",
+            "sub_menu" : [],
+            "details_link" : ""
+        },
+        {
+            "order_no" : 14,
+            "id" : 15,
+            "title" : "পল্লী বিদ্যুতের অন্যান্য সেবা",
+            "icon" : "https://cdn-icons.flaticon.com/png/512/3631/premium/3631163.png?token=exp=1652933492~hmac=002b6f728e5f6aa85be5672dc58c597d",
+            "sub_menu" : [],
+            "details_link" : ""
+        },
+        {
+            "order_no" : 15,
+            "id" : 16,
+            "title" : "নোটিশ সমূহ",
+            "icon" : "https://cdn-icons-png.flaticon.com/512/2852/2852908.png",
             "sub_menu" : [],
             "details_link" : ""
         }
