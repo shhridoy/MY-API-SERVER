@@ -6,7 +6,7 @@
             "order_no" : 0,
             "id" : 1,
             "title" : "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড",
-            "icon" : "https://cdn-icons.flaticon.com/png/512/2988/premium/2988036.png?token=exp=1652875274~hmac=fbf436c97b75a27ff7c0a77d2a8f2b20",
+            "icon" : "https://cdn-icons-png.flaticon.com/512/2990/2990815.png",
             "sub_menu" : [],
             "details_link" : ""
         },
@@ -54,7 +54,7 @@
             "order_no" : 6,
             "id" : 7,
             "title" : "ফরিদগঞ্জ জোনাল অফিস",
-            "icon" : "https://cdn-icons.flaticon.com/png/512/2086/premium/2086048.png?token=exp=1652932816~hmac=7251562988d6dfaff8ec11b7b641564f",
+            "icon" : "https://cdn-icons-png.flaticon.com/512/7548/7548942.png",
             "sub_menu" : [],
             "details_link" : ""
         },
@@ -62,7 +62,7 @@
             "order_no" : 7,
             "id" : 8,
             "title" : "মতলব উত্তর জোনাল অফিস",
-            "icon" : "https://cdn-icons.flaticon.com/png/512/2086/premium/2086048.png?token=exp=1652932816~hmac=7251562988d6dfaff8ec11b7b641564f",
+            "icon" : "https://cdn-icons-png.flaticon.com/512/7548/7548942.png",
             "sub_menu" : [],
             "details_link" : ""
         },
@@ -70,7 +70,7 @@
             "order_no" : 8,
             "id" : 9,
             "title" : "মতলব দক্ষিণ জোনাল অফিস",
-            "icon" : "https://cdn-icons.flaticon.com/png/512/2086/premium/2086048.png?token=exp=1652932816~hmac=7251562988d6dfaff8ec11b7b641564f",
+            "icon" : "https://cdn-icons-png.flaticon.com/512/7548/7548942.png",
             "sub_menu" : [],
             "details_link" : ""
         },
@@ -78,7 +78,7 @@
             "order_no" : 9,
             "id" : 10,
             "title" : "হাইমচর সাব-জোনাল অফিস",
-            "icon" : "https://cdn-icons.flaticon.com/png/512/2086/premium/2086048.png?token=exp=1652932816~hmac=7251562988d6dfaff8ec11b7b641564f",
+            "icon" : "https://cdn-icons-png.flaticon.com/512/5024/5024833.png",
             "sub_menu" : [],
             "details_link" : ""
         },
@@ -86,7 +86,7 @@
             "order_no" : 10,
             "id" : 11,
             "title" : "কামতা সাব-জোনাল অফিস",
-            "icon" : "https://cdn-icons.flaticon.com/png/512/2086/premium/2086048.png?token=exp=1652932816~hmac=7251562988d6dfaff8ec11b7b641564f",
+            "icon" : "https://cdn-icons-png.flaticon.com/512/5024/5024833.png",
             "sub_menu" : [],
             "details_link" : ""
         },
@@ -110,7 +110,7 @@
             "order_no" : 13,
             "id" : 14,
             "title" : "জেলার জরুরী যোগাযোগ",
-            "icon" : "https://cdn-icons.flaticon.com/png/512/3900/premium/3900771.png?token=exp=1652933538~hmac=65515be9188f86194598e579cc5db358",
+            "icon" : "https://cdn-icons-png.flaticon.com/512/950/950237.png",
             "sub_menu" : [],
             "details_link" : ""
         },
@@ -118,7 +118,7 @@
             "order_no" : 14,
             "id" : 15,
             "title" : "পল্লী বিদ্যুতের অন্যান্য সেবা",
-            "icon" : "https://cdn-icons.flaticon.com/png/512/3631/premium/3631163.png?token=exp=1652933492~hmac=002b6f728e5f6aa85be5672dc58c597d",
+            "icon" : "https://cdn-icons-png.flaticon.com/512/1055/1055687.png",
             "sub_menu" : [],
             "details_link" : ""
         },
