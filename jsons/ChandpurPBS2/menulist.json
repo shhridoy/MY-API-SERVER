@@ -6,7 +6,7 @@
             "order_no" : 0,
             "id" : 1,
             "title" : "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড",
-            "icon" : "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/Icon1.png",
+            "icon" : "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/icon1.png",
             "sub_menu" : [],
             "details_link" : ""
         },
@@ -14,7 +14,7 @@
             "order_no" : 1,
             "id" : 2,
             "title" : "চেয়ারম্যান মহোদয়ের বার্তা",
-            "icon" : "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/Icon2.png",
+            "icon" : "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/icon2.png",
             "sub_menu" : [],
             "details_link" : ""
         },
@@ -22,7 +22,7 @@
             "order_no" : 2,
             "id" : 3,
             "title" : "একনজরে চাঁদপুর পবিস-২",
-            "icon" : "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/Icon3.png",
+            "icon" : "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/icon3.png",
             "sub_menu" : [],
             "details_link" : ""
         },
@@ -30,7 +30,7 @@
             "order_no" : 3,
             "id" : 4,
             "title" : "জেনারেল ম্যানেজার মহোদয়ের বার্তা",
-            "icon" : "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/Icon2.png",
+            "icon" : "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/icon2.png",
             "sub_menu" : [],
             "details_link" : ""
         },
@@ -38,7 +38,7 @@
             "order_no" : 4,
             "id" : 5,
             "title" : "সমিতি বোর্ড",
-            "icon" : "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/Icon4.png",
+            "icon" : "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/icon4.png",
             "sub_menu" : [],
             "details_link" : ""
         },
@@ -46,7 +46,7 @@
             "order_no" : 5,
             "id" : 6,
             "title" : "চাঁদপুর পবিস-২ (সদর দপ্তর)",
-            "icon" : "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/Icon5.png",
+            "icon" : "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/icon5.png",
             "sub_menu" : [],
             "details_link" : ""
         },
@@ -54,7 +54,7 @@
             "order_no" : 6,
             "id" : 7,
             "title" : "ফরিদগঞ্জ জোনাল অফিস",
-            "icon" : "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/Icon6.png",
+            "icon" : "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/icon6.png",
             "sub_menu" : [],
             "details_link" : ""
         },
@@ -62,7 +62,7 @@
             "order_no" : 7,
             "id" : 8,
             "title" : "মতলব উত্তর জোনাল অফিস",
-            "icon" : "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/Icon7.png",
+            "icon" : "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/icon7.png",
             "sub_menu" : [],
             "details_link" : ""
         },
@@ -70,7 +70,7 @@
             "order_no" : 8,
             "id" : 9,
             "title" : "মতলব দক্ষিণ জোনাল অফিস",
-            "icon" : "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/Icon8.png",
+            "icon" : "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/icon8.png",
             "sub_menu" : [],
             "details_link" : ""
         },
@@ -78,7 +78,7 @@
             "order_no" : 9,
             "id" : 10,
             "title" : "হাইমচর সাব-জোনাল অফিস",
-            "icon" : "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/Icon9.png",
+            "icon" : "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/icon9.png",
             "sub_menu" : [],
             "details_link" : ""
         },
@@ -86,7 +86,7 @@
             "order_no" : 10,
             "id" : 11,
             "title" : "কামতা সাব-জোনাল অফিস",
-            "icon" : "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/Icon10.png",
+            "icon" : "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/icon10.png",
             "sub_menu" : [],
             "details_link" : ""
         },
@@ -94,7 +94,7 @@
             "order_no" : 11,
             "id" : 12,
             "title" : "উপকেন্দ্র সমূহ",
-            "icon" : "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/Icon11.png",
+            "icon" : "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/icon11.png",
             "sub_menu" : [],
             "details_link" : ""
         },
@@ -102,7 +102,7 @@
             "order_no" : 12,
             "id" : 13,
             "title" : "অভিযোগ কেন্দ্র সমূহ",
-            "icon" : "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/Icon12.png",
+            "icon" : "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/icon12.png",
             "sub_menu" : [],
             "details_link" : ""
         },
@@ -110,7 +110,7 @@
             "order_no" : 13,
             "id" : 14,
             "title" : "জেলার জরুরী যোগাযোগ",
-            "icon" : "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/Icon12.png",
+            "icon" : "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/icon12.png",
             "sub_menu" : [],
             "details_link" : ""
         },
@@ -118,7 +118,7 @@
             "order_no" : 14,
             "id" : 15,
             "title" : "পল্লী বিদ্যুতের অন্যান্য সেবা",
-            "icon" : "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/Icon13.png",
+            "icon" : "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/icon13.png",
             "sub_menu" : [],
             "details_link" : ""
         },
@@ -126,7 +126,7 @@
             "order_no" : 15,
             "id" : 16,
             "title" : "নোটিশ সমূহ",
-            "icon" : "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/Icon14.png",
+            "icon" : "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/icon14.png",
             "sub_menu" : [],
             "details_link" : ""
         }
