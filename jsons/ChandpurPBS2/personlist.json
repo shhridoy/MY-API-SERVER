@@ -22,6 +22,28 @@
         "email": "fzo.cpbs2@gmail.com",
         "section": "Office Head",
         "office": "FZO"
+      },
+      {
+        "empId": "3",
+        "name": "সাদেক মিয়া",
+        "image": "http://file-chittagong.portal.gov.bd/files/pbs2.chandpur.gov.bd/officer_list/f60317cd_2f9b_427c_abc5_83ba70f0a1c7/aac6a7bfeaf9fc3070f1b99f79565d1f.png",
+        "designation": "ডেপুটি জেনারেল ম্যানেজার (সদর-কারিগরী)",
+        "mobile_1": "01769400098",
+        "mobile_2": "",
+        "email": "chandpurpbs2@gmail.com",
+        "section": "Office Head - Tech",
+        "office": "HQ"
+      },
+      {
+        "empId": "4",
+        "name": "মো: সহিদুল ইসলাম",
+        "image": "http://file-chittagong.portal.gov.bd/files/pbs2.chandpur.gov.bd/officer_list/d91ac8ff_1833_4180_a1b5_937599bbb2f2/d98683d4e014c287dfc7d20df46fd029.png",
+        "designation": "ডেপুটি জেনারেল ম্যানেজার",
+        "mobile_1": "01769400096",
+        "mobile_2": "",
+        "email": "mszo.cpbs2@gmail.com",
+        "section": "Office Head",
+        "office": "MSZO"
       }
     ]
   }
