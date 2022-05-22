@@ -14,7 +14,7 @@
             "order_no" : 1,
             "id" : 2,
             "title" : "চেয়ারম্যান মহোদয়ের বার্তা",
-            "icon" : "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/icon2.png",
+            "icon" : "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/Icon2.png",
             "sub_menu" : [],
             "details_link" : ""
         },
@@ -22,7 +22,7 @@
             "order_no" : 2,
             "id" : 3,
             "title" : "একনজরে চাঁদপুর পবিস-২",
-            "icon" : "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/icon3.png",
+            "icon" : "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/Icon3.png",
             "sub_menu" : [],
             "details_link" : ""
         },
@@ -30,7 +30,7 @@
             "order_no" : 3,
             "id" : 4,
             "title" : "জেনারেল ম্যানেজার মহোদয়ের বার্তা",
-            "icon" : "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/icon2.png",
+            "icon" : "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/Icon2.png",
             "sub_menu" : [],
             "details_link" : ""
         },
@@ -38,7 +38,7 @@
             "order_no" : 4,
             "id" : 5,
             "title" : "সমিতি বোর্ড",
-            "icon" : "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/icon4.png",
+            "icon" : "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/Icon4.png",
             "sub_menu" : [],
             "details_link" : ""
         },
