@@ -165,6 +165,39 @@
         "email": "hszo.cpbs2@gmail.com",
         "section": "O&M",
         "office": "HSZO"
+      },
+      {
+        "empId": "16",
+        "name": "দীপক চক্রবর্তী",
+        "image": "http://file-chittagong.portal.gov.bd/files/pbs2.chandpur.gov.bd/staff_list/34f4b8e0_2b7f_4cd9_8a25_286cc558abb3/693f18bf7dea3c095968326c5789e513.png",
+        "designation": "প্লান্ট হিসাবরক্ষক",
+        "mobile_1": "01918881015",
+        "mobile_2": "",
+        "email": "dipakchakrabarty@yahoo.com",
+        "section": "Finance-Acc",
+        "office": "HQ"
+      },
+      {
+        "empId": "17",
+        "name": "মোহাম্মদ মাসুদুর রহমান",
+        "image": "http://file-chittagong.portal.gov.bd/files/pbs2.chandpur.gov.bd/staff_list/5e9458f5_da16_4ff5_81dc_8ba1e10e86d9/657fa79a96b27ff5b276ad91fb2b0fa8.png",
+        "designation": "জুনিয়র ইঞ্জিনিয়ার (ওএন্ডএম)",
+        "mobile_1": "01722248779",
+        "mobile_2": "",
+        "email": "dipakchakrabarty@yahoo.com",
+        "section": "Finance-Acc",
+        "office": "HQ"
+      },
+      {
+        "empId": "18",
+        "name": "ছোট রাম সাহা",
+        "image": "http://file-chittagong.portal.gov.bd/files/pbs2.chandpur.gov.bd/staff_list/29423e92_4152_468f_851b_374fca95a098/86c00d4d80e739edd34c7f8d20197128.png",
+        "designation": "এনফোর্সমেন্ট কো-অর্ডিনেটর",
+        "mobile_1": "01716705478",
+        "mobile_2": "",
+        "email": "",
+        "section": "Admin",
+        "office": "HQ"
       }
     ]
   }

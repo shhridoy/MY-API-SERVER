@@ -132,7 +132,22 @@
         }
         
     ],
+    
     "drawer_menu" : [
         
+    ],
+    
+    "sub_menu" : [
+        {
+            "id" : 1,
+            "title" : "অফিস প্রধান",
+            "link" : null
+        },
+        {
+            "id" : 2,
+            "title" : "ফিন্যান্স শাখা",
+            "link" : null
+        }
     ]
+    
 }
