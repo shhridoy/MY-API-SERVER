@@ -47,7 +47,7 @@
             "id" : 5,
             "title" : "চাঁদপুর পবিস-২ (সদর দপ্তর)",
             "icon" : "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/icon5.png",
-            "sub_menu" : [1,2,3,4,5,6,7],
+            "sub_menu" : [0,1,2,3,4,5,6],
             "details_link" : ""
         },
         {
@@ -55,7 +55,7 @@
             "id" : 6,
             "title" : "ফরিদগঞ্জ জোনাল অফিস",
             "icon" : "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/icon6.png",
-            "sub_menu" : [1,2,3,4,5,7],
+            "sub_menu" : [0,1,2,3,4,6],
             "details_link" : ""
         },
         {
