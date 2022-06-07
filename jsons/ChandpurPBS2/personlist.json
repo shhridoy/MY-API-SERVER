@@ -1,203 +1,204 @@
 {
     "title": "Persons",
+    "version": 1.0,
     "person_list": [
       {
-        "empId": "1",
+        "empId": 1,
         "name": "দেব কুমার মালো",
         "image": "http://file-chittagong.portal.gov.bd/files/pbs2.chandpur.gov.bd/officer_list/ff098132_7091_41c8_a769_0e71fd23fd99/5e749df07430c7b7c9bf011fa41ab5d6.png",
         "designation": "জেনারেল ম্যানেজার",
         "mobile_1": "01769402151",
         "mobile_2": "0841-65111",
         "email": "nomaddeb8@gmail.com",
-        "section": "Office Head",
-        "office": "HQ"
+        "section_id": [0],
+        "office_id": [5]
       },
       {
-        "empId": "2",
+        "empId": 2,
         "name": "মোহাম্মদ কামাল হোসেন",
         "image": "http://file-chittagong.portal.gov.bd/uploads/f7040cc7-d4d4-47fa-b7b9-c38f63431d88//61d/573/514/61d57351416e1977980123.jpeg",
         "designation": "ডেপুটি জেনারেল ম্যানেজার",
         "mobile_1": "01769400095",
         "mobile_2": "",
         "email": "fzo.cpbs2@gmail.com",
-        "section": "Office Head",
-        "office": "FZO"
+        "section_id": [0],
+        "office_id": [6]
       },
       {
-        "empId": "3",
+        "empId": 3,
         "name": "সাদেক মিয়া",
         "image": "http://file-chittagong.portal.gov.bd/files/pbs2.chandpur.gov.bd/officer_list/f60317cd_2f9b_427c_abc5_83ba70f0a1c7/aac6a7bfeaf9fc3070f1b99f79565d1f.png",
         "designation": "ডেপুটি জেনারেল ম্যানেজার (সদর-কারিগরী)",
         "mobile_1": "01769400098",
         "mobile_2": "",
         "email": "chandpurpbs2@gmail.com",
-        "section": "Office Head - Tech",
-        "office": "HQ"
+        "section_id": [4,5],
+        "office_id": [5]
       },
       {
-        "empId": "4",
+        "empId": 4,
         "name": "মো: সহিদুল ইসলাম",
         "image": "http://file-chittagong.portal.gov.bd/files/pbs2.chandpur.gov.bd/officer_list/d91ac8ff_1833_4180_a1b5_937599bbb2f2/d98683d4e014c287dfc7d20df46fd029.png",
         "designation": "ডেপুটি জেনারেল ম্যানেজার",
         "mobile_1": "01769400096",
         "mobile_2": "",
         "email": "mszo.cpbs2@gmail.com",
-        "section": "Office Head",
-        "office": "MSZO"
+        "section_id": [0],
+        "office_id": [8]
       },
       {
-        "empId": "5",
+        "empId": 5,
         "name": "মোঃ সামছু উদ্দিন",
         "image": "http://file-chittagong.portal.gov.bd/uploads/f7040cc7-d4d4-47fa-b7b9-c38f63431d88//625/105/e31/625105e31dff8786459385.jpg",
         "designation": "ডেপুটি জেনারেল ম্যানেজার",
         "mobile_1": "01769400100",
         "mobile_2": "",
         "email": "mnzo.cpbs2@gmail.com",
-        "section": "Office Head",
-        "office": "MNZO"
+        "section_id": [0],
+        "office_id": [7]
       },
       {
-        "empId": "6",
+        "empId": 6,
         "name": "মো: রহমতে সোবাহান",
         "image": "http://file-chittagong.portal.gov.bd/files/pbs2.chandpur.gov.bd/officer_list/cde4a3e4_a9da_47d8_b735_e3624dfc27d1/14c66168dd5ebf031a91234fe8abef9a.png",
         "designation": "সহকারী জেনারেল ম্যানেজার (অর্থ)",
         "mobile_1": "01769407397",
         "mobile_2": "",
         "email": "resobhan@gmail.com",
-        "section": "Finance",
-        "office": "HQ"
+        "section_id": [1],
+        "office_id": [5]
       },
       {
-        "empId": "7",
+        "empId": 7,
         "name": "ওয়াদুদ খন্দকার",
         "image": "http://file-chittagong.portal.gov.bd/files/pbs2.chandpur.gov.bd/officer_list/20a011d1_c335_494a_8ce3_acda57fc379a/48f8f8b42bf02d47a70e46f4c71cffca.png",
         "designation": "সহকারী জেনারেল ম্যানেজার (প্রশাসন)",
         "mobile_1": "01769407396",
         "mobile_2": "",
         "email": "chandpurpbs2@gmail.com",
-        "section": "Admin",
-        "office": "HQ"
+        "section_id": [3],
+        "office_id": [5]
       },
       {
-        "empId": "8",
+        "empId": 8,
         "name": "মালিক মো: ইয়াহিয়া",
         "image": "http://file-chittagong.portal.gov.bd/files/pbs2.chandpur.gov.bd/officer_list/c658b29c_6de7_4b32_9e0c_b11b2060918e/6f5ded891959fec920adf227efb8e679.png",
         "designation": "সহকারী জেনারেল ম্যানেজার (সদস্য সেবা)",
         "mobile_1": "01769402154",
         "mobile_2": "",
         "email": "yeahia@hotmail.com",
-        "section": "MS",
-        "office": "HQ"
+        "section_id": [2],
+        "office_id": [5]
       },
       {
-        "empId": "9",
+        "empId": 9,
         "name": "মিফতাহ উদ্দিন",
         "image": "http://file-chittagong.portal.gov.bd/files/pbs2.chandpur.gov.bd/officer_list/9276ab1e_5dee_48ac_bff4_42ef406f9184/edfabbfdf5993c383170bce06894168f.png",
         "designation": "সহকারী জেনারেল ম্যানেজার (ওএন্ডএম)-সদর দপ্তর",
         "mobile_1": "01769400333",
         "mobile_2": "",
         "email": "miftahuddin.mec@gmail.com",
-        "section": "O&M",
-        "office": "HQ"
+        "section_id": [0,4],
+        "office_id": [5,10]
       },
       {
-        "empId": "10",
+        "empId": 10,
         "name": "মো: শাহাবুদ্দিন",
         "image": "http://file-chittagong.portal.gov.bd/files/pbs2.chandpur.gov.bd/officer_list/00120f47_c4b1_45e6_9944_d759dd82f967/e51fffa871e35d75e4a8105dccd1eccc.png",
         "designation": "সহকারী জেনারেল ম্যানেজার (ইএন্ডসি)",
         "mobile_1": "01769402597",
         "mobile_2": "",
         "email": "chandpurpbs2@gmail.com",
-        "section": "E&C",
-        "office": "HQ"
+        "section_id": [5],
+        "office_id": [5]
       },
       {
-        "empId": "11",
+        "empId": 11,
         "name": "মো: সোহাগ মিয়া",
         "image": "http://file-chittagong.portal.gov.bd/files/pbs2.chandpur.gov.bd/officer_list/87a1b921_d468_4135_b207_296c5e406b9e/97bca3e9e83035687d5e6bd182cebd85.png",
         "designation": "সহকারী জেনারেল ম্যানেজার (আইটি)",
         "mobile_1": "01923655069",
         "mobile_2": "",
         "email": "sohaga412@gmail.com",
-        "section": "IT",
-        "office": "HQ"
+        "section_id": [6],
+        "office_id": [5,6,9,10]
       },
       {
-        "empId": "12",
+        "empId": 12,
         "name": "মো: সাইফুল হক",
         "image": "http://file-chittagong.portal.gov.bd/uploads/f7040cc7-d4d4-47fa-b7b9-c38f63431d88//61f/8b1/764/61f8b1764b1d3654139456.jpg",
         "designation": "সহকারী জেনারেল ম্যানেজার (আইটি)",
         "mobile_1": "01742423628",
         "mobile_2": "",
         "email": "md.saifulhq@gmail.com",
-        "section": "IT",
-        "office": "HQ"
+        "section_id": [6],
+        "office_id": [5,7,8]
       },
       {
-        "empId": "13",
+        "empId": 13,
         "name": "মোঃ রায়হানুল ইসলাম",
         "image": "http://file-chittagong.portal.gov.bd/files/pbs2.chandpur.gov.bd/officer_list/d191c2c7_9b94_4982_851d_84a770cae914/d3cb73db57df2af3d8caf0ea6c04c255.png",
         "designation": "সহকারী জেনারেল ম্যানেজার (ওএন্ডএম)-ফরিদগঞ্জ জোনাল অফিস",
         "mobile_1": "01769400329",
         "mobile_2": "",
         "email": "raihanduet46@gmail.com",
-        "section": "O&M",
-        "office": "FZO"
+        "section_id": [4],
+        "office_id": [6]
       },
       {
-        "empId": "14",
+        "empId": 14,
         "name": "আসীর ইনন্তেসার",
         "image": "http://file-chittagong.portal.gov.bd/uploads/f7040cc7-d4d4-47fa-b7b9-c38f63431d88//61b/440/895/61b4408958c32478004866.jpg",
         "designation": "সহকারী জেনারেল ম্যানেজার (ওএন্ডএম) , মতলব দ: জোনাল অফিস",
         "mobile_1": "01769400332",
         "mobile_2": "",
         "email": "mszo.cpbs22gmail.com",
-        "section": "O&M",
-        "office": "MSZO"
+        "section_id": [4],
+        "office_id": [7,8]
       },
       {
-        "empId": "15",
+        "empId": 15,
         "name": "মোঃ হাফিজুর রহমান",
         "image": "http://file-chittagong.portal.gov.bd/files/pbs2.chandpur.gov.bd/officer_list/b8426cb8_01c8_4781_9071_4c77887b2864/a215de18a644a1c935d1a30aca7355c6.png",
         "designation": "এজিএম (ওএন্ডএম)-হাইমচর সাব-জোনাল অফিস",
         "mobile_1": "01769407538",
         "mobile_2": "",
         "email": "hszo.cpbs2@gmail.com",
-        "section": "O&M",
-        "office": "HSZO"
+        "section_id": [0,4],
+        "office_id": [9]
       },
       {
-        "empId": "16",
+        "empId": 16,
         "name": "দীপক চক্রবর্তী",
         "image": "http://file-chittagong.portal.gov.bd/files/pbs2.chandpur.gov.bd/staff_list/34f4b8e0_2b7f_4cd9_8a25_286cc558abb3/693f18bf7dea3c095968326c5789e513.png",
         "designation": "প্লান্ট হিসাবরক্ষক",
         "mobile_1": "01918881015",
         "mobile_2": "",
         "email": "dipakchakrabarty@yahoo.com",
-        "section": "Finance-Acc",
-        "office": "HQ"
+        "section_id": [1],
+        "office_id": [5]
       },
       {
-        "empId": "17",
+        "empId": 17,
         "name": "মোহাম্মদ মাসুদুর রহমান",
         "image": "http://file-chittagong.portal.gov.bd/files/pbs2.chandpur.gov.bd/staff_list/5e9458f5_da16_4ff5_81dc_8ba1e10e86d9/657fa79a96b27ff5b276ad91fb2b0fa8.png",
         "designation": "জুনিয়র ইঞ্জিনিয়ার (ওএন্ডএম)",
         "mobile_1": "01722248779",
         "mobile_2": "",
         "email": "",
-        "section": "Finance-Acc",
-        "office": "HQ"
+        "section_id": [5],
+        "office_id": [5]
       },
       {
-        "empId": "18",
+        "empId": 18,
         "name": "ছোট রাম সাহা",
         "image": "http://file-chittagong.portal.gov.bd/files/pbs2.chandpur.gov.bd/staff_list/29423e92_4152_468f_851b_374fca95a098/86c00d4d80e739edd34c7f8d20197128.png",
         "designation": "এনফোর্সমেন্ট কো-অর্ডিনেটর",
         "mobile_1": "01716705478",
         "mobile_2": "",
         "email": "",
-        "section": "Admin",
-        "office": "HQ"
+        "section_id": [3],
+        "office_id": [5]
       }
     ]
   }
