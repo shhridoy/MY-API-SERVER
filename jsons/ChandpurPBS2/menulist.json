@@ -4,7 +4,7 @@
         
         {
             "order_no" : 0,
-            "id" : 1,
+            "id" : 0,
             "title" : "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড",
             "icon" : "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/icon1.png",
             "sub_menu" : [],
@@ -12,7 +12,7 @@
         },
         {
             "order_no" : 1,
-            "id" : 2,
+            "id" : 1,
             "title" : "চেয়ারম্যান মহোদয়ের বার্তা",
             "icon" : "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/Icon2.png",
             "sub_menu" : [],
@@ -20,7 +20,7 @@
         },
         {
             "order_no" : 2,
-            "id" : 3,
+            "id" : 2,
             "title" : "একনজরে চাঁদপুর পবিস-২",
             "icon" : "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/Icon3.png",
             "sub_menu" : [],
@@ -28,7 +28,7 @@
         },
         {
             "order_no" : 3,
-            "id" : 4,
+            "id" : 3,
             "title" : "জেনারেল ম্যানেজার মহোদয়ের বার্তা",
             "icon" : "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/Icon2.png",
             "sub_menu" : [],
@@ -36,7 +36,7 @@
         },
         {
             "order_no" : 4,
-            "id" : 5,
+            "id" : 4,
             "title" : "সমিতি বোর্ড",
             "icon" : "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/Icon4.png",
             "sub_menu" : [],
@@ -44,55 +44,55 @@
         },
         {
             "order_no" : 5,
-            "id" : 6,
+            "id" : 5,
             "title" : "চাঁদপুর পবিস-২ (সদর দপ্তর)",
             "icon" : "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/icon5.png",
-            "sub_menu" : [],
+            "sub_menu" : [1,2,3,4,5,6,7],
             "details_link" : ""
         },
         {
             "order_no" : 6,
-            "id" : 7,
+            "id" : 6,
             "title" : "ফরিদগঞ্জ জোনাল অফিস",
             "icon" : "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/icon6.png",
-            "sub_menu" : [],
+            "sub_menu" : [1,2,3,4,5,7],
             "details_link" : ""
         },
         {
             "order_no" : 7,
-            "id" : 8,
+            "id" : 7,
             "title" : "মতলব উত্তর জোনাল অফিস",
             "icon" : "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/icon7.png",
-            "sub_menu" : [],
+            "sub_menu" : [0,1,2,3,4,6],
             "details_link" : ""
         },
         {
             "order_no" : 8,
-            "id" : 9,
+            "id" : 8,
             "title" : "মতলব দক্ষিণ জোনাল অফিস",
             "icon" : "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/icon8.png",
-            "sub_menu" : [],
+            "sub_menu" : [0,1,2,3,4,6],
             "details_link" : ""
         },
         {
             "order_no" : 9,
-            "id" : 10,
+            "id" : 9,
             "title" : "হাইমচর সাব-জোনাল অফিস",
             "icon" : "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/icon9.png",
-            "sub_menu" : [],
+            "sub_menu" : [0,1,2,3,4,6],
             "details_link" : ""
         },
         {
             "order_no" : 10,
-            "id" : 11,
+            "id" : 10,
             "title" : "কামতা সাব-জোনাল অফিস",
             "icon" : "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/icon10.png",
-            "sub_menu" : [],
+            "sub_menu" : [0,1,2,3,4,6],
             "details_link" : ""
         },
         {
             "order_no" : 11,
-            "id" : 12,
+            "id" : 11,
             "title" : "উপকেন্দ্র সমূহ",
             "icon" : "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/icon11.png",
             "sub_menu" : [],
@@ -100,7 +100,7 @@
         },
         {
             "order_no" : 12,
-            "id" : 13,
+            "id" : 12,
             "title" : "অভিযোগ কেন্দ্র সমূহ",
             "icon" : "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/icon12.png",
             "sub_menu" : [],
@@ -108,7 +108,7 @@
         },
         {
             "order_no" : 13,
-            "id" : 14,
+            "id" : 13,
             "title" : "জেলার জরুরী যোগাযোগ",
             "icon" : "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/icon12.png",
             "sub_menu" : [],
@@ -116,7 +116,7 @@
         },
         {
             "order_no" : 14,
-            "id" : 15,
+            "id" : 14,
             "title" : "পল্লী বিদ্যুতের অন্যান্য সেবা",
             "icon" : "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/icon13.png",
             "sub_menu" : [],
@@ -124,7 +124,7 @@
         },
         {
             "order_no" : 15,
-            "id" : 16,
+            "id" : 15,
             "title" : "নোটিশ সমূহ",
             "icon" : "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/icon14.png",
             "sub_menu" : [],
@@ -139,13 +139,38 @@
     
     "sub_menu" : [
         {
-            "id" : 1,
+            "id" : 0,
             "title" : "অফিস প্রধান",
             "link" : null
         },
         {
-            "id" : 2,
+            "id" : 1,
             "title" : "ফিন্যান্স শাখা",
+            "link" : null
+        },
+        {
+            "id" : 2,
+            "title" : "সদস্য সেবা শাখা",
+            "link" : null
+        },
+        {
+            "id" : 3,
+            "title" : "প্রশাসন/মানব সম্পদ শাখা",
+            "link" : null
+        },
+        {
+            "id" : 4,
+            "title" : "ওএন্ডএম শাখা",
+            "link" : null
+        },
+        {
+            "id" : 5,
+            "title" : "ইএন্ডসি শাখা",
+            "link" : null
+        },
+        {
+            "id" : 6,
+            "title" : "আইটি শাখা",
             "link" : null
         }
     ]
