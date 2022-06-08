@@ -141,7 +141,7 @@
         {
             "order_no": 0,
             "id" : 0,
-            "parent_id": null,
+            "parent_id": "",
             "has_child": false,
             "title" : "অফিস প্রধান",
             "link" : null
@@ -149,7 +149,7 @@
         {
             "order_no": 1,
             "id" : 1,
-            "parent_id": null,
+            "parent_id": "",
             "has_child": true,
             "title" : "ফিন্যান্স শাখা",
             "link" : null
@@ -157,7 +157,7 @@
         {
             "order_no": 2,
             "id" : 2,
-            "parent_id": null,
+            "parent_id": "",
             "has_child": false,
             "title" : "সদস্য সেবা শাখা",
             "link" : null
@@ -165,7 +165,7 @@
         {
             "order_no": 3,
             "id" : 3,
-            "parent_id": null,
+            "parent_id": "",
             "has_child": false,
             "title" : "প্রশাসন/মানব সম্পদ শাখা",
             "link" : null
@@ -173,7 +173,7 @@
         {
             "order_no": 4,
             "id" : 4,
-            "parent_id": null,
+            "parent_id": "",
             "has_child": false,
             "title" : "ওএন্ডএম শাখা",
             "link" : null
@@ -181,7 +181,7 @@
         {
             "order_no": 5,
             "id" : 5,
-            "parent_id": null,
+            "parent_id": "",
             "has_child": false,
             "title" : "ইএন্ডসি শাখা",
             "link" : null
@@ -189,7 +189,7 @@
         {
             "order_no": 6,
             "id" : 6,
-            "parent_id": null,
+            "parent_id": "",
             "has_child": false,
             "title" : "আইটি শাখা",
             "link" : null
