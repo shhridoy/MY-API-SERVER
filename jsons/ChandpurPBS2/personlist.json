@@ -1,6 +1,6 @@
 {
     "title": "Persons",
-    "version": 1.0,
+    "version": 1.01,
     "person_list": [
       {
         "empId": 1,
@@ -217,6 +217,114 @@
         "email": "",
         "section_id": [3],
         "office_id": [5]
+      },
+      {
+        "empId": 19,
+        "order_no": 18,
+        "name": "মোঃ আসাদুজ্জামান",
+        "image": "http://file-chittagong.portal.gov.bd/files/pbs2.chandpur.gov.bd/staff_list/9c96672e_b254_46d8_ac0b_2882e14bec48/2b214d21186fc1fc20265e12aaa86a41.png",
+        "designation": "এনফোর্সমেন্ট কো-অর্ডিনেটর",
+        "mobile_1": "01911616575",
+        "mobile_2": "",
+        "email": "",
+        "section_id": [3],
+        "office_id": [5]
+      },
+      {
+        "empId": 20,
+        "order_no": 19,
+        "name": "মোঃ গোলাম মহসীন",
+        "image": "http://file-chittagong.portal.gov.bd/files/pbs2.chandpur.gov.bd/staff_list/ff049dd2_24e1_40fd_b36c_23adbfd7251c/b50fb46b808ab2b286a3e1f686bb55cd.png",
+        "designation": "জুনিয়র ইঞ্জিনিয়ার (ওএন্ডএম)",
+        "mobile_1": "০১৭২০৫৬৭৭৮২",
+        "mobile_2": "",
+        "email": "",
+        "section_id": [4],
+        "office_id": [7]
+      },
+      {
+        "empId": 21,
+        "order_no": 20,
+        "name": "মোঃ হাবিবুর রহমান",
+        "image": "http://file-chittagong.portal.gov.bd/files/pbs2.chandpur.gov.bd/staff_list/ef3410d2_dbee_4922_b358_8d02047b8255/e3129ac8e1377826648d14cd0a9036b0.png",
+        "designation": "জুনিয়র ইঞ্জিনিয়ার (ওএন্ডএম)",
+        "mobile_1": "০১৭১৮৯৪১৭১০",
+        "mobile_2": "",
+        "email": "",
+        "section_id": [4],
+        "office_id": [10]
+      },
+      {
+        "empId": 22,
+        "order_no": 21,
+        "name": "মোঃ এনায়েত হোসেন",
+        "image": "http://file-chittagong.portal.gov.bd/files/pbs2.chandpur.gov.bd/staff_list/240b16ab_66b4_4d36_9463_4434916e2ebf/f8beebf74ec0378af31bf4f363977c65.png",
+        "designation": "জুনিয়র ইঞ্জিনিয়ার (ওএন্ডএম)",
+        "mobile_1": "০১৭১৬২৪৪৫৮১",
+        "mobile_2": "",
+        "email": "",
+        "section_id": [4],
+        "office_id": [10]
+      },
+      {
+        "empId": 23,
+        "order_no": 22,
+        "name": "মোহাম্মদ মোশাররফ হোসেন",
+        "image": "http://file-chittagong.portal.gov.bd/files/pbs2.chandpur.gov.bd/staff_list/ca2dcc56_5f90_4bae_a978_fcf0fb5b7aa4/2f4ce83d60d25226ec61e5b7159dcaef.png",
+        "designation": "সহকারী জুনিয়র ইঞ্জিনিয়ার (ওএন্ডএম)",
+        "mobile_1": "০১৮১৮৬৪৫৫২৫",
+        "mobile_2": "",
+        "email": "",
+        "section_id": [4],
+        "office_id": [5]
+      },
+      {
+        "empId": 24,
+        "order_no": 23,
+        "name": "আব্দুল মাজেদ",
+        "image": "http://file-chittagong.portal.gov.bd/files/pbs2.chandpur.gov.bd/staff_list/4396acb2_d059_42a7_ab14_2ffcfe89678e/10a54a3f9af96953edbdff4e0d08a355.png",
+        "designation": "মিটার টেষ্টিং সুপারভাইজার",
+        "mobile_1": "০১৭১২৫৫৭৪৭৬",
+        "mobile_2": "",
+        "email": "",
+        "section_id": [4],
+        "office_id": [5,6]
+      },
+      {
+        "empId": 25,
+        "order_no": 24,
+        "name": "মিল্টন নাইডু",
+        "image": "http://file-chittagong.portal.gov.bd/files/pbs2.chandpur.gov.bd/staff_list/501c3d2a_183a_428e_868f_77fc923a3c78/19bb04a40c0297ddb15fb4f4643fc8cd.png",
+        "designation": "জুনিয়র ইঞ্জিনিয়ার (আইটি)",
+        "mobile_1": "০১৬৭৫২৫৪২২৮",
+        "mobile_2": "",
+        "email": "milton.cse18@gmail.com",
+        "section_id": [6],
+        "office_id": [5,7,9,10]
+      },
+      {
+        "empId": 26,
+        "order_no": 25,
+        "name": "মিল্টন নাইডু",
+        "image": "http://file-chittagong.portal.gov.bd/files/pbs2.chandpur.gov.bd/staff_list/501c3d2a_183a_428e_868f_77fc923a3c78/19bb04a40c0297ddb15fb4f4643fc8cd.png",
+        "designation": "জুনিয়র ইঞ্জিনিয়ার (আইটি)",
+        "mobile_1": "০১৬৭৫২৫৪২২৮",
+        "mobile_2": "",
+        "email": "milton.cse18@gmail.com",
+        "section_id": [6],
+        "office_id": [5,7,9,10]
+      },
+      {
+        "empId": 27,
+        "order_no": 26,
+        "name": "শিরিনা আক্তার",
+        "image": "http://file-chittagong.portal.gov.bd/files/pbs2.chandpur.gov.bd/staff_list/97508d28_b363_40db_bb88_c6bb27dd3def/bd6d2d07bdba5a12aa65198bc3b48b47.png",
+        "designation": "সহকারী জুনিয়র ইঞ্জিনিয়ার (আইটি)",
+        "mobile_1": "০১৯৪৩৯২৯৭৮২",
+        "mobile_2": "",
+        "email": "shirinaakterrotna@gmail.com",
+        "section_id": [6],
+        "office_id": [5,6,8]
       }
     ]
   }

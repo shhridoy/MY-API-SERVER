@@ -1,5 +1,5 @@
 {
-    "version" : 1.0,
+    "version" : 1.01,
     "home_menu" : [
         
         {
@@ -137,7 +137,7 @@
         
     ],
     
-    "sub_menu" : [
+    "sub_menu" : [ // sections
         {
             "order_no": 0,
             "id" : 0,
