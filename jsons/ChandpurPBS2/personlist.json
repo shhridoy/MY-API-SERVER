@@ -1,6 +1,6 @@
 {
     "title": "Persons",
-    "version": 1.01,
+    "version": 1.02,
     "person_list": [
       {
         "empId": 1,
@@ -305,18 +305,6 @@
       {
         "empId": 26,
         "order_no": 25,
-        "name": "মিল্টন নাইডু",
-        "image": "http://file-chittagong.portal.gov.bd/files/pbs2.chandpur.gov.bd/staff_list/501c3d2a_183a_428e_868f_77fc923a3c78/19bb04a40c0297ddb15fb4f4643fc8cd.png",
-        "designation": "জুনিয়র ইঞ্জিনিয়ার (আইটি)",
-        "mobile_1": "০১৬৭৫২৫৪২২৮",
-        "mobile_2": "",
-        "email": "milton.cse18@gmail.com",
-        "section_id": [6],
-        "office_id": [5,7,9,10]
-      },
-      {
-        "empId": 27,
-        "order_no": 26,
         "name": "শিরিনা আক্তার",
         "image": "http://file-chittagong.portal.gov.bd/files/pbs2.chandpur.gov.bd/staff_list/97508d28_b363_40db_bb88_c6bb27dd3def/bd6d2d07bdba5a12aa65198bc3b48b47.png",
         "designation": "সহকারী জুনিয়র ইঞ্জিনিয়ার (আইটি)",
