@@ -137,7 +137,7 @@
         
     ],
     
-    "sub_menu" : [ // sections
+    "sub_menu" : [
         {
             "order_no": 0,
             "id" : 0,
