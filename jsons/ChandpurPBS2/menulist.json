@@ -1,5 +1,5 @@
 {
-    "version" : 1.04,
+    "version" : 1.05,
     "home_menu" : [
         
         {
@@ -55,7 +55,7 @@
             "id" : 6,
             "title" : "ফরিদগঞ্জ জোনাল অফিস",
             "icon" : "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/icon6.png",
-            "sub_menu" : [0,1,2,3,4,6],
+            "sub_menu" : [0,2,3,4,8],
             "details_link" : ""
         },
         {
@@ -63,7 +63,7 @@
             "id" : 7,
             "title" : "মতলব উত্তর জোনাল অফিস",
             "icon" : "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/icon7.png",
-            "sub_menu" : [0,1,2,3,4,6],
+            "sub_menu" : [0,2,3,4,8],
             "details_link" : ""
         },
         {
@@ -71,7 +71,7 @@
             "id" : 8,
             "title" : "মতলব দক্ষিণ জোনাল অফিস",
             "icon" : "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/icon8.png",
-            "sub_menu" : [0,1,2,3,4,6],
+            "sub_menu" : [0,2,3,4,8],
             "details_link" : ""
         },
         {
@@ -79,7 +79,7 @@
             "id" : 9,
             "title" : "হাইমচর সাব-জোনাল অফিস",
             "icon" : "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/icon9.png",
-            "sub_menu" : [0,1,2,3,4,6],
+            "sub_menu" : [0,2,3,4,8],
             "details_link" : ""
         },
         {
@@ -87,15 +87,15 @@
             "id" : 10,
             "title" : "কামতা সাব-জোনাল অফিস",
             "icon" : "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/icon10.png",
-            "sub_menu" : [0,1,2,3,4,6],
+            "sub_menu" : [0,2,3,4,8],
             "details_link" : ""
         },
         {
             "order_no" : 11,
             "id" : 11,
-            "title" : "উপকেন্দ্র সমূহ",
+            "title" : "এরিয়া অফিস ও উপকেন্দ্র সমূহ",
             "icon" : "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/icon11.png",
-            "sub_menu" : [],
+            "sub_menu" : [18,19,20,21],
             "details_link" : ""
         },
         {
@@ -103,7 +103,7 @@
             "id" : 12,
             "title" : "অভিযোগ কেন্দ্র সমূহ",
             "icon" : "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/icon12.png",
-            "sub_menu" : [],
+            "sub_menu" : [11,12,13,14,15,16,17],
             "details_link" : ""
         },
         {
@@ -208,6 +208,110 @@
             "parent_id": "1",
             "has_child": false,
             "title" : "রাজস্ব শাখা",
+            "link" : null
+        },
+        {
+            "order_no": 9,
+            "id" : 9,
+            "parent_id": "",
+            "has_child": false,
+            "title" : "কর্মকর্তাবৃন্দ",
+            "link" : null
+        },
+        {
+            "order_no": 10,
+            "id" : 10,
+            "parent_id": "",
+            "has_child": false,
+            "title" : "কর্মচারীবৃন্দ",
+            "link" : null
+        },
+        {
+            "order_no": 11,
+            "id" : 11,
+            "parent_id": "",
+            "has_child": false,
+            "title" : "বাগাদী অভিযোগ কেন্দ্র",
+            "link" : null
+        },
+        {
+            "order_no": 12,
+            "id" : 12,
+            "parent_id": "",
+            "has_child": false,
+            "title" : "বালিয়া অভিযোগ কেন্দ্র",
+            "link" : null
+        },
+        {
+            "order_no": 13,
+            "id" : 13,
+            "parent_id": "",
+            "has_child": false,
+            "title" : "বাগানবাড়ী অভিযোগ কেন্দ্র",
+            "link" : null
+        },
+        {
+            "order_no": 14,
+            "id" : 14,
+            "parent_id": "",
+            "has_child": false,
+            "title" : "নারায়নপুর অভিযোগ কেন্দ্র",
+            "link" : null
+        },
+        {
+            "order_no": 15,
+            "id" : 15,
+            "parent_id": "",
+            "has_child": false,
+            "title" : "ফরাজিকান্দি অভিযোগ কেন্দ্র",
+            "link" : null
+        },
+        {
+            "order_no": 16,
+            "id" : 16,
+            "parent_id": "",
+            "has_child": false,
+            "title" : "চান্দ্রা অভিযোগ কেন্দ্র",
+            "link" : null
+        },
+        {
+            "order_no": 17,
+            "id" : 17,
+            "parent_id": "",
+            "has_child": false,
+            "title" : "সুজাতপুর অভিযোগ কেন্দ্র",
+            "link" : null
+        },
+        {
+            "order_no": 18,
+            "id" : 18,
+            "parent_id": "",
+            "has_child": false,
+            "title" : "মহামায়া এরিয়া অফিস",
+            "link" : null
+        },
+        {
+            "order_no": 19,
+            "id" : 19,
+            "parent_id": "",
+            "has_child": false,
+            "title" : "বালিয়া ইনডোর উপকেন্দ্র",
+            "link" : null
+        },
+        {
+            "order_no": 20,
+            "id" : 20,
+            "parent_id": "",
+            "has_child": false,
+            "title" : "কামতা ইনডোর উপকেন্দ্র",
+            "link" : null
+        },
+        {
+            "order_no": 21,
+            "id" : 21,
+            "parent_id": "",
+            "has_child": false,
+            "title" : "সুজাতপুর ইনডোর উপকেন্দ্র",
             "link" : null
         }
     ]

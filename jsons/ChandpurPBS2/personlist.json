@@ -178,7 +178,7 @@
             "mobile_2": "0841-65111",
             "email": "nomaddeb8@gmail.com",
             "section_id": [
-                0
+                0,9
             ],
             "office_id": [
                 5
@@ -195,7 +195,7 @@
             "mobile_2": "",
             "email": "fzo.cpbs2@gmail.com",
             "section_id": [
-                0
+                0,9
             ],
             "office_id": [
                 6
@@ -213,7 +213,8 @@
             "email": "chandpurpbs2@gmail.com",
             "section_id": [
                 4,
-                5
+                5,
+                9
             ],
             "office_id": [
                 5
@@ -230,7 +231,7 @@
             "mobile_2": "",
             "email": "mszo.cpbs2@gmail.com",
             "section_id": [
-                0
+                0,9
             ],
             "office_id": [
                 8
@@ -247,7 +248,7 @@
             "mobile_2": "",
             "email": "mnzo.cpbs2@gmail.com",
             "section_id": [
-                0
+                0,9
             ],
             "office_id": [
                 7
@@ -266,7 +267,8 @@
             "section_id": [
                 1,
                 7,
-                8
+                8,
+                9
             ],
             "office_id": [
                 5
@@ -283,7 +285,7 @@
             "mobile_2": "",
             "email": "chandpurpbs2@gmail.com",
             "section_id": [
-                3
+                3,9
             ],
             "office_id": [
                 5
@@ -300,7 +302,7 @@
             "mobile_2": "",
             "email": "yeahia@hotmail.com",
             "section_id": [
-                2
+                2,9
             ],
             "office_id": [
                 5
@@ -318,7 +320,8 @@
             "email": "miftahuddin.mec@gmail.com",
             "section_id": [
                 0,
-                4
+                4,
+                9
             ],
             "office_id": [
                 5,
@@ -336,7 +339,7 @@
             "mobile_2": "",
             "email": "chandpurpbs2@gmail.com",
             "section_id": [
-                5
+                5,9
             ],
             "office_id": [
                 5
@@ -353,7 +356,7 @@
             "mobile_2": "",
             "email": "sohaga412@gmail.com",
             "section_id": [
-                6
+                6,9
             ],
             "office_id": [
                 5,
@@ -373,7 +376,7 @@
             "mobile_2": "",
             "email": "md.saifulhq@gmail.com",
             "section_id": [
-                6
+                6,9
             ],
             "office_id": [
                 5,
@@ -392,7 +395,7 @@
             "mobile_2": "",
             "email": "raihanduet46@gmail.com",
             "section_id": [
-                4
+                4,9
             ],
             "office_id": [
                 6
@@ -409,7 +412,7 @@
             "mobile_2": "",
             "email": "mszo.cpbs22gmail.com",
             "section_id": [
-                4
+                4,9
             ],
             "office_id": [
                 7,
@@ -428,7 +431,8 @@
             "email": "hszo.cpbs2@gmail.com",
             "section_id": [
                 0,
-                4
+                4,
+                9
             ],
             "office_id": [
                 9
@@ -446,7 +450,8 @@
             "email": "dipakchakrabarty@yahoo.com",
             "section_id": [
                 1,
-                7
+                7,
+                10
             ],
             "office_id": [
                 5
@@ -463,7 +468,7 @@
             "mobile_2": "",
             "email": "",
             "section_id": [
-                5
+                5,10
             ],
             "office_id": [
                 5
@@ -480,7 +485,7 @@
             "mobile_2": "",
             "email": "",
             "section_id": [
-                3
+                3,10
             ],
             "office_id": [
                 5
@@ -497,7 +502,7 @@
             "mobile_2": "",
             "email": "",
             "section_id": [
-                3
+                3,10
             ],
             "office_id": [
                 5
@@ -514,7 +519,7 @@
             "mobile_2": "",
             "email": "",
             "section_id": [
-                4
+                4,10
             ],
             "office_id": [
                 7
@@ -531,7 +536,7 @@
             "mobile_2": "",
             "email": "",
             "section_id": [
-                4
+                4,10
             ],
             "office_id": [
                 10
@@ -548,10 +553,10 @@
             "mobile_2": "",
             "email": "",
             "section_id": [
-                4
+                4,10
             ],
             "office_id": [
-                10
+                8
             ]
         },
         {
@@ -565,7 +570,7 @@
             "mobile_2": "",
             "email": "",
             "section_id": [
-                4
+                4,10
             ],
             "office_id": [
                 5
@@ -582,10 +587,9 @@
             "mobile_2": "",
             "email": "",
             "section_id": [
-                4
+                4,10
             ],
             "office_id": [
-                5,
                 6
             ]
         },
@@ -600,7 +604,7 @@
             "mobile_2": "",
             "email": "milton.cse18@gmail.com",
             "section_id": [
-                6
+                6,10
             ],
             "office_id": [
                 5,
@@ -620,7 +624,7 @@
             "mobile_2": "",
             "email": "shirinaakterrotna@gmail.com",
             "section_id": [
-                6
+                6,10
             ],
             "office_id": [
                 5,
@@ -639,7 +643,7 @@
             "mobile_2": "",
             "email": "",
             "section_id": [
-                4
+                4,10
             ],
             "office_id": [
                 5
@@ -656,7 +660,7 @@
             "mobile_2": "",
             "email": "",
             "section_id": [
-                5
+                5,10
             ],
             "office_id": [
                 5
@@ -673,7 +677,7 @@
             "mobile_2": "",
             "email": "nova.israt009@gmail.com",
             "section_id": [
-                3
+                3,10
             ],
             "office_id": [
                 5
@@ -690,10 +694,10 @@
             "mobile_2": "",
             "email": "",
             "section_id": [
-                4
+                4,10
             ],
             "office_id": [
-                5
+                6
             ]
         },
         {
@@ -707,12 +711,10 @@
             "mobile_2": "",
             "email": "chandpurpbs2.mszo@gmail.com",
             "section_id": [
-                4
+                4,10
             ],
             "office_id": [
-                8,
-                11,
-                12
+                18
             ]
         },
         {
@@ -726,7 +728,7 @@
             "mobile_2": "",
             "email": "hszo.cpbs2@gmail.com",
             "section_id": [
-                4
+                4,10
             ],
             "office_id": [
                 9
@@ -743,10 +745,115 @@
             "mobile_2": "",
             "email": "anikray49@gmail.com",
             "section_id": [
-                3
+                3,10
             ],
             "office_id": [
                 6
+            ]
+        },
+        {
+            "empId": 34,
+            "order_no": 33,
+            "name": "রাকিব হোসেন",
+            "image": "",
+            "designation": "সহকারী জুনিয়র ইঞ্জিনিয়ার (ওএন্ডএম)",
+            "gender": "male",
+            "mobile_1": "01626054428",
+            "mobile_2": "",
+            "email": "",
+            "section_id": [
+                3,10
+            ],
+            "office_id": [
+                7
+            ]
+        },
+        {
+            "empId": 35,
+            "order_no": 34,
+            "name": "শাহ আলম",
+            "image": "",
+            "designation": "সহকারী জুনিয়র ইঞ্জিনিয়ার (ওএন্ডএম)",
+            "gender": "male",
+            "mobile_1": "01788584897",
+            "mobile_2": "",
+            "email": "",
+            "section_id": [
+                3,10
+            ],
+            "office_id": [
+                11
+            ]
+        },
+        {
+            "empId": 36,
+            "order_no": 35,
+            "name": "মোঃ সাজ্জাদ হোসেন",
+            "image": "",
+            "designation": "সহকারী জুনিয়র ইঞ্জিনিয়ার (ওএন্ডএম)",
+            "gender": "male",
+            "mobile_1": "01812514028",
+            "mobile_2": "",
+            "email": "",
+            "section_id": [
+                3,10
+            ],
+            "office_id": [
+                10
+            ]
+        },
+        {
+            "empId": 37,
+            "order_no": 36,
+            "name": "ফেরদৌসী বেগম",
+            "image": "",
+            "designation": "বিলিং সুপারভাইজার (BS)",
+            "gender": "female",
+            "dob": "20-12-1963",
+            "mobile_1": "01812514028",
+            "mobile_2": "",
+            "email": "",
+            "section_id": [
+                1,8,10
+            ],
+            "office_id": [
+                10
+            ]
+        },
+        {
+            "empId": 38,
+            "order_no": 37,
+            "name": "রেহেনা আক্তার",
+            "image": "",
+            "designation": "বিলিং সুপারভাইজার (BS)",
+            "gender": "female",
+            "dob": "01-01-1974",
+            "mobile_1": "01911827175",
+            "mobile_2": "",
+            "email": "",
+            "section_id": [
+                1,8,10
+            ],
+            "office_id": [
+                5
+            ]
+        },
+        {
+            "empId": 39,
+            "order_no": 38,
+            "name": "মোঃ সাহজ উদ্দিন",
+            "image": "",
+            "designation": "বিলিং সুপারভাইজার (BS)",
+            "gender": "male",
+            "dob": "01-01-1966",
+            "mobile_1": "01819918923",
+            "mobile_2": "",
+            "email": "",
+            "section_id": [
+                1,8,10
+            ],
+            "office_id": [
+                7
             ]
         }
     ]
