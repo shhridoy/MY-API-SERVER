@@ -1,6 +1,6 @@
 {
     "title": "Persons",
-    "version": 1.03,
+    "version": 1.04,
     "person_list": [
         {
             "empId": 1001,
@@ -693,7 +693,7 @@
             "empId": 33,
             "order_no": 32,
             "name": "অনিক কুমার রায়",
-            "image": "http://file-chittagong.portal.gov.bd/files/pbs2.chandpur.gov.bd/staff_list/7e584e61_06b5_49f5_8da7_eb9a58cdbd19/79e04d61f0c22dc649d1b286b03473d3.png",
+            "image": "http://file-chittagong.portal.gov.bd/uploads/f7040cc7-d4d4-47fa-b7b9-c38f63431d88//622/9a3/da2/6229a3da240bc764028441.jpg",
             "designation": "সহকারী এনফোর্সমেন্ট কো-অর্ডিনেটর",
             "mobile_1": "০১৬৮১৫৯৪৮৯৯",
             "mobile_2": "",
