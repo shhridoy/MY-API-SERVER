@@ -488,16 +488,16 @@
         {
             "id" : 20,
             "order_no" : 20,
-            "title_bn" : "লাইনম্যান লেভেল-১",
-            "title_en" : "Lineman Level-1",
+            "title_bn" : "লাইনম্যান-১",
+            "title_en" : "Lineman-1",
             "title_short_bn" : "এলএম-১",
             "title_short_en" : "LM1"
         },
         {
             "id" : 21,
             "order_no" : 21,
-            "title_bn" : "লাইনম্যান লেভেল-২",
-            "title_en" : "Lineman Level-2",
+            "title_bn" : "লাইনম্যান-২",
+            "title_en" : "Lineman-2",
             "title_short_bn" : "এলএম-২",
             "title_short_en" : "LM2"
         },
@@ -620,6 +620,14 @@
             "title_en" : "Line Labour",
             "title_short_bn" : "এলএল",
             "title_short_en" : "LL"
+        },
+        {
+            "id" : 37,
+            "order_no" : 37,
+            "title_bn" : "লাইন ক্রু লেভেল-১",
+            "title_en" : "Line Labour",
+            "title_short_bn" : "এলকে-১",
+            "title_short_en" : "LKL1"
         }
     ]
     
