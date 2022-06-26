@@ -93,9 +93,9 @@
         {
             "order_no" : 11,
             "id" : 11,
-            "title" : "এরিয়া অফিস ও উপকেন্দ্র সমূহ",
+            "title" : "এরিয়া অফিস/উপকেন্দ্র/গ্রীড সমূহ",
             "icon" : "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/icon11.png",
-            "sub_menu" : [18,19,20,21],
+            "sub_menu" : [18,19,20,21,24,25],
             "details_link" : ""
         },
         {
@@ -328,6 +328,22 @@
             "parent_id": "",
             "has_child": false,
             "title" : "রামপুর অভিযোগ কেন্দ্র",
+            "link" : null
+        },
+        {
+            "order_no": 24,
+            "id" : 24,
+            "parent_id": "",
+            "has_child": false,
+            "title" : "রামগঞ্জ গ্রীড",
+            "link" : null
+        },
+        {
+            "order_no": 25,
+            "id" : 25,
+            "parent_id": "",
+            "has_child": false,
+            "title" : "কচুয়া গ্রীড",
             "link" : null
         }
     ],
