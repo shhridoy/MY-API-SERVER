@@ -1,5 +1,5 @@
 {
-    "version" : 1.09,
+    "version" : 1.10,
     "home_menu_offices" : [
         
         {
@@ -103,7 +103,7 @@
             "id" : 12,
             "title" : "অভিযোগ কেন্দ্র সমূহ",
             "icon" : "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/icon12.png",
-            "sub_menu" : [11,12,13,14,15,16,17,22],
+            "sub_menu" : [11,12,13,14,15,16,17,22,26,27],
             "details_link" : ""
         },
         {
@@ -344,6 +344,22 @@
             "parent_id": "",
             "has_child": false,
             "title" : "কচুয়া গ্রীড",
+            "link" : null
+        },
+        {
+            "order_no": 23,
+            "id" : 26,
+            "parent_id": "",
+            "has_child": false,
+            "title" : "খদেরগাঁও অভিযোগ কেন্দ্র",
+            "link" : null
+        },
+        {
+            "order_no": 23,
+            "id" : 27,
+            "parent_id": "",
+            "has_child": false,
+            "title" : "সাহেবগঞ্জ অভিযোগ কেন্দ্র",
             "link" : null
         }
     ],
