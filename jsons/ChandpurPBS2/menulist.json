@@ -1,5 +1,5 @@
 {
-    "version" : 1.12,
+    "version" : 1.13,
     "home_menu_offices" : [
         
         {
@@ -47,7 +47,7 @@
             "id" : 5,
             "title" : "সদর দপ্তর",
             "icon" : "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/icon5.png",
-            "sub_menu" : [0,1,2,3,4,5,6],
+            "sub_menu" : [0,1,28,2,5,6],
             "details_link" : ""
         },
         {
@@ -173,7 +173,7 @@
         {
             "order_no": 2,
             "id" : 4,
-            "parent_id": "",
+            "parent_id": "28",
             "has_child": false,
             "title" : "ওএন্ডএম শাখা",
             "link" : null
@@ -181,7 +181,7 @@
         {
             "order_no": 3,
             "id" : 5,
-            "parent_id": "",
+            "parent_id": "28",
             "has_child": false,
             "title" : "ইএন্ডসি শাখা",
             "link" : null
@@ -360,6 +360,14 @@
             "parent_id": "",
             "has_child": false,
             "title" : "সাহেবগঞ্জ অভিযোগ কেন্দ্র",
+            "link" : null
+        },
+        {
+            "order_no": 2,
+            "id" : 28,
+            "parent_id": "",
+            "has_child": true,
+            "title" : "কারিগরী বিভাগ",
             "link" : null
         }
     ],

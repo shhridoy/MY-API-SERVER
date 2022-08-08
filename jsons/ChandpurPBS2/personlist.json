@@ -1,6 +1,6 @@
 {
     "title": "Persons",
-    "version": 1.12,
+    "version": 1.13,
     "filter_office_ids": [5,6,7,8,9,10,11,12],
     "person_list": [
         {
@@ -488,11 +488,10 @@
             "mobile_2": "",
             "email": "mszo.cpbs22gmail.com",
             "section_id": [
-                4,9
+                0,4,9
             ],
             "office_id": [
-                7,
-                8
+                10
             ]
         },
         {
@@ -515,6 +514,28 @@
             ],
             "office_id": [
                 9
+            ]
+        },
+        {
+            "empId": 20180630001137,
+            "order_no": 14,
+            "name": "রোকসানা আক্তার",
+            "image": "",
+            "designation": "সহকারী জেনারেল ম্যানেজার (ইএন্ডসি)",
+            "gender": "female",
+            "dob": "09-08-1993",
+            "blood_group": "A+",
+            "emp_type": "R",
+            "mobile_1": "01769400332",
+            "mobile_2": "",
+            "email": "mszo.cpbs2@gmail.com",
+            "section_id": [
+                4,
+                5,
+                9
+            ],
+            "office_id": [
+                8
             ]
         },
         {
@@ -4869,7 +4890,7 @@
             "order_no": 272,
             "name": "মোঃ মোস্তফা মিয়া",
             "image": "",
-            "designation": "কুক-কাম-কেয়ারটেকার",
+            "designation": "ড্রাইভার",
             "gender": "male",
             "dob": "01-01-1964",
             "blood_group": "B+",
