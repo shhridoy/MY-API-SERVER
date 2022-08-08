@@ -484,9 +484,9 @@
             "dob": "27-10-1995",
             "blood_group": "B+",
             "emp_type": "R",
-            "mobile_1": "01769400332",
+            "mobile_1": "01769402598",
             "mobile_2": "",
-            "email": "mszo.cpbs22gmail.com",
+            "email": "kszo.cpbs2@gmail.com",
             "section_id": [
                 0,4,9
             ],
@@ -806,26 +806,6 @@
             ]
         },
         {
-            "empId": 20220136031568,
-            "order_no": 28,
-            "name": "ইশরাত জাহান",
-            "image": "http://file-chittagong.portal.gov.bd/uploads/f7040cc7-d4d4-47fa-b7b9-c38f63431d88//621/211/1ae/6212111aedc85316423111.jpg",
-            "designation": "সহকারী এনফোর্সমেন্ট কো-অর্ডিনেটর",
-            "gender": "female",
-            "dob": "18-11-1995",
-            "blood_group": "B+",
-            "emp_type": "R",
-            "mobile_1": "01533458189",
-            "mobile_2": "",
-            "email": "nova.israt009@gmail.com",
-            "section_id": [
-                3,10
-            ],
-            "office_id": [
-                5
-            ]
-        },
-        {
             "empId": 20011137001766,
             "order_no": 29,
             "name": "মোঃ আবুল কালাম",
@@ -949,15 +929,15 @@
             "empId": 20210638029362,
             "order_no": 35,
             "name": "মোঃ সাজ্জাদ হোসেন",
-            "image": "",
+            "image": "http://file-chittagong.portal.gov.bd/uploads/f7040cc7-d4d4-47fa-b7b9-c38f63431d88//62c/e9d/ac1/62ce9dac15357011943989.jpeg",
             "designation": "সহকারী জুনিয়র ইঞ্জিনিয়ার (ওএন্ডএম)",
             "gender": "male",
             "dob": "15-07-1994",
             "blood_group": "O+",
             "emp_type": "R",
-            "mobile_1": "01812514028",
+            "mobile_1": "01518421073",
             "mobile_2": "",
-            "email": "",
+            "email": "mdsazzad01814@gmail.com",
             "section_id": [
                 4,10
             ],
