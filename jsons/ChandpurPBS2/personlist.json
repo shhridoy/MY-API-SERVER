@@ -529,7 +529,7 @@
             "mobile_2": "",
             "email": "mszo.cpbs2@gmail.com",
             "section_id": [
-                4,ß
+                4,
                 9
             ],
             "office_id": [
@@ -4033,7 +4033,7 @@
         },
         {
             "empId": 202103983027097,
-            "order_no": 290
+            "order_no": 290,
             "name": "মোঃ তামজিদ",
             "image": "",
             "designation": "লাইন শ্রমিক",
