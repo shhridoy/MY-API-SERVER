@@ -1,5 +1,5 @@
 {
-	"version": 1.15,
+	"version": 1.16,
 	"home_menu_offices": [
 
 		{
@@ -8,7 +8,7 @@
 			"title": "বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ড",
 			"icon": "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/icon1.png",
 			"sub_menu": [],
-			"sub_menu_1": [0, 9, 10],
+			"sub_menu_1": [],
 			"details_link": ""
 		},
 		{
@@ -17,7 +17,7 @@
 			"title": "চেয়ারম্যান মহোদয়ের বার্তা",
 			"icon": "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/Icon2.png",
 			"sub_menu": [],
-			"sub_menu_1": [0, 9, 10],
+			"sub_menu_1": [],
 			"details_link": ""
 		},
 		{
@@ -26,7 +26,7 @@
 			"title": "একনজরে চাঁদপুর পবিস-২",
 			"icon": "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/Icon3.png",
 			"sub_menu": [],
-			"sub_menu_1": [0, 9, 10],
+			"sub_menu_1": [],
 			"details_link": ""
 		},
 		{
@@ -35,7 +35,7 @@
 			"title": "জেনারেল ম্যানেজার মহোদয়ের বার্তা",
 			"icon": "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/Icon2.png",
 			"sub_menu": [],
-			"sub_menu_1": [0, 9, 10],
+			"sub_menu_1": [],
 			"details_link": ""
 		},
 		{
@@ -44,7 +44,7 @@
 			"title": "সমিতি বোর্ড",
 			"icon": "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/Icon4.png",
 			"sub_menu": [],
-			"sub_menu_1": [0, 9, 10],
+			"sub_menu_1": [],
 			"details_link": ""
 		},
 		{
