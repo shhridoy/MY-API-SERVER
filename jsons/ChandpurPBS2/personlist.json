@@ -1,6 +1,6 @@
 {
 	"title": "Persons",
-	"version": 1.14,
+	"version": 1.15,
 	"filter_office_ids": [5, 6, 7, 8, 9, 10, 11, 12],
 	"person_list": [{
 			"empId": 1001,
@@ -446,10 +446,7 @@
 				6, 9
 			],
 			"office_id": [
-				5,
-				6,
-				9,
-				10
+				5
 			]
 		},
 		{
@@ -470,9 +467,7 @@
 				6, 9
 			],
 			"office_id": [
-				5,
-				7,
-				8
+				5
 			]
 		},
 		{
@@ -522,7 +517,7 @@
 			"order_no": 14,
 			"name": "মোঃ হাফিজুর রহমান",
 			"image": "http://file-chittagong.portal.gov.bd/files/pbs2.chandpur.gov.bd/officer_list/b8426cb8_01c8_4781_9071_4c77887b2864/a215de18a644a1c935d1a30aca7355c6.png",
-			"designation": "সহকারী জেনারেল ম্যানেজার c",
+			"designation": "সহকারী জেনারেল ম্যানেজার (ওএন্ডএম)",
 			"gender": "male",
 			"dob": "01-01-1980",
 			"blood_group": "O+",
@@ -771,10 +766,7 @@
 				6, 10
 			],
 			"office_id": [
-				5,
-				7,
-				9,
-				10
+				5
 			]
 		},
 		{
@@ -795,9 +787,7 @@
 				6, 10
 			],
 			"office_id": [
-				5,
-				6,
-				8
+				5
 			]
 		},
 		{
