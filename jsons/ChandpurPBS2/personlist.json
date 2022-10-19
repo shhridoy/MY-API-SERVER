@@ -1,6 +1,6 @@
 {
 	"title": "Persons",
-	"version": 1.16,
+	"version": 1.17,
 	"filter_office_ids": [5, 6, 7, 8, 9, 10, 11, 12],
 	"person_list": [{
 			"empId": 1001,
@@ -5411,6 +5411,937 @@
 			"email": "",
 			"section_id": [3, 10],
 			"office_id": [6]
+		},
+		{
+			"empId": 1015,
+			"order_no": 1015,
+			"name": "মোঃ মিলন মাহমুদ বিপিএম (বার)",
+			"image": "http://file-chittagong.portal.gov.bd/files/police.chandpur.gov.bd/officer_list/8bd4a3a3_ce72_47b5_ae27_c957650a907d/4f4378de8c52d11252972c3b2b827bac.png",
+			"designation": "পুলিশ সুপার",
+			"gender": "male",
+			"dob": "",
+			"blood_group": "",
+			"emp_type": "",
+			"view_type": 1,
+			"mobile_1": "01320115900",
+			"mobile_2": "084163443",
+			"email": "spchandpur@police.gov.bd",
+			"section_id": [29],
+			"office_id": [
+				13
+			]
+		},
+		{
+			"empId": 1016,
+			"order_no": 1016,
+			"name": "সুদীপ্ত রায়",
+			"image": "http://file-chittagong.portal.gov.bd/files/police.chandpur.gov.bd/officer_list/49dbc501_7310_4e92_89f5_38f69addba6a/960ca3ef013dae9295b5494464b3165f.png",
+			"designation": "অতিরিক্ত পুলিশ সুপার (প্রশাসন ও অর্থ)",
+			"gender": "male",
+			"dob": "",
+			"blood_group": "",
+			"emp_type": "",
+			"view_type": 1,
+			"mobile_1": "০১৩২০১১৫৯০২",
+			"mobile_2": "০৮৪১৬৩১৪৭",
+			"email": "spchandpur@police.gov.bd",
+			"section_id": [29],
+			"office_id": [
+				13
+			]
+		},
+		{
+			"empId": 1017,
+			"order_no": 1017,
+			"name": "মোহাম্মদ মঈনুল ইসলাম",
+			"image": "http://file-chittagong.portal.gov.bd/uploads/cc16eb5d-c1b8-4528-a3fe-4efbc066e7c2//61b/843/051/61b8430511269873973877.jpg",
+			"designation": "অতিরিক্ত পুলিশ সুপার (সদর চাঁদপুর)",
+			"gender": "male",
+			"dob": "",
+			"blood_group": "",
+			"emp_type": "",
+			"view_type": 1,
+			"mobile_1": "০১৩২০১১৫৯০৫",
+			"mobile_2": "০৮৪১৬৩১৪৭",
+			"email": "spchandpur@police.gov.bd",
+			"section_id": [29],
+			"office_id": [
+				13
+			]
+		},
+		{
+			"empId": 1018,
+			"order_no": 1018,
+			"name": "মোহাম্মদ আশরাফ উদ্দিন",
+			"image": "http://file-chittagong.portal.gov.bd/uploads/cc16eb5d-c1b8-4528-a3fe-4efbc066e7c2//61f/283/454/61f2834547cdc085435876.jpg",
+			"designation": "পুলিশ পরিদর্শক (নিরস্ত্র)",
+			"gender": "male",
+			"dob": "",
+			"blood_group": "",
+			"emp_type": "",
+			"view_type": 1,
+			"mobile_1": "০১৮১৯৯৩০৪৩৮",
+			"mobile_2": "",
+			"email": "readerchandpur@gmail.com",
+			"section_id": [29],
+			"office_id": [
+				13
+			]
+		},
+		{
+			"empId": 1019,
+			"order_no": 1019,
+			"name": "মোঃ গোলাম দস্তগীর",
+			"image": "http://file-chittagong.portal.gov.bd/files/prison.chandpur.gov.bd/officer_list/5c71c4e6_2733_4038_9d8d_3bc13508772e/0b33bfb40270b3b19688470660d6f56f.png",
+			"designation": "কারা তত্ত্বাবধায়ক",
+			"gender": "male",
+			"dob": "",
+			"blood_group": "",
+			"emp_type": "",
+			"view_type": 1,
+			"mobile_1": "০১৭৬৯৯৭০৪১০",
+			"mobile_2": "০৮৪১-৬৩২০৯",
+			"email": "jailsuperchandpur@yahoo.com",
+			"section_id": [30],
+			"office_id": [
+				13
+			]
+		},
+		{
+			"empId": 1020,
+			"order_no": 1020,
+			"name": "মুহাম্মদ মুনীর হোসাইন",
+			"image": "http://file-chittagong.portal.gov.bd/uploads/c008830d-fed1-4ddd-9c79-d8d4f6ddc7a5//630/5c3/4e3/6305c34e3e70e490362834.jpg",
+			"designation": "জেলার",
+			"gender": "male",
+			"dob": "",
+			"blood_group": "",
+			"emp_type": "",
+			"view_type": 1,
+			"mobile_1": "০১৭০৪৬৬৫২১৩",
+			"mobile_2": "",
+			"email": "djmonir.hossain@yahoo.com",
+			"section_id": [30],
+			"office_id": [
+				13
+			]
+		},
+		{
+			"empId": 1021,
+			"order_no": 1021,
+			"name": "আবু ইউসুফ",
+			"image": "http://file-chittagong.portal.gov.bd/uploads/c008830d-fed1-4ddd-9c79-d8d4f6ddc7a5//634/500/620/63450062063fe734243595.jpg",
+			"designation": "ডেপুটি জেলার",
+			"gender": "male",
+			"dob": "",
+			"blood_group": "",
+			"emp_type": "",
+			"view_type": 1,
+			"mobile_1": "০১৭২১৫৯৫৫৫২",
+			"mobile_2": "",
+			"email": "eusuf2050@gmail.com",
+			"section_id": [30],
+			"office_id": [
+				13
+			]
+		},
+		{
+			"empId": 1022,
+			"order_no": 1022,
+			"name": "মোঃ সাহিদুল ইসলাম",
+			"image": "http://file-chittagong.portal.gov.bd/files/fireservice.chandpur.gov.bd/officer_list/00d4fa75_2d06_4a69_aa46_3318bdd6054c/de29be0315ba5e232ef32b9f2bc50568.png",
+			"designation": "উপ-সহকারী পরিচালক",
+			"gender": "male",
+			"dob": "",
+			"blood_group": "",
+			"emp_type": "",
+			"view_type": 1,
+			"mobile_1": "০১৭১৮৭৮৩৫৫৯",
+			"mobile_2": "",
+			"email": "dadchandpur@gmail.com",
+			"section_id": [31],
+			"office_id": [
+				13
+			]
+		},
+		{
+			"empId": 1023,
+			"order_no": 1023,
+			"name": "এমরান হোসেন",
+			"image": "http://file-chittagong.portal.gov.bd/files/fireservice.chandpur.gov.bd/officer_list/8c39aca7_e402_4da9_9c69_87647b87263c/61fb26fab9b8a665ad54ca44381e7cef.png",
+			"designation": "সিনিয়র স্টেশন অফিসার",
+			"gender": "male",
+			"dob": "",
+			"blood_group": "",
+			"emp_type": "",
+			"view_type": 1,
+			"mobile_1": "০১৭২০১৭১৬৬৫",
+			"mobile_2": "",
+			"email": "emran.fscd@gmail.com",
+			"section_id": [31],
+			"office_id": [
+				13
+			]
+		},
+		{
+			"empId": 1024,
+			"order_no": 1024,
+			"name": "মোঃ রবিউল আল আমিন",
+			"image": "http://file-chittagong.portal.gov.bd/files/fireservice.chandpur.gov.bd/officer_list/4aec841b_d6d9_4e24_8edf_2b439bfd5b30/fe9ce860f17b079e9539055b108db738.png",
+			"designation": "সিনিয়র স্টেশন অফিসার",
+			"gender": "male",
+			"dob": "",
+			"blood_group": "",
+			"emp_type": "",
+			"view_type": 1,
+			"mobile_1": "০১৮৭৬০১৫৮৩৯",
+			"mobile_2": "",
+			"email": "chandpuruttarfirestation@gmail.com",
+			"section_id": [31],
+			"office_id": [
+				13
+			]
+		},
+		{
+			"empId": 1025,
+			"order_no": 1025,
+			"name": "আবু মোহাম্মদ সাজেদুল কবির জোয়ারদার",
+			"image": "http://file-chittagong.portal.gov.bd/files/fireservice.chandpur.gov.bd/officer_list/f1682adb_7296_4053_8e7e_6b4d8c1f2bc7/3ea6a122cfbb265c5b6fdd353132c736.png",
+			"designation": "সিনিয়র স্টেশন অফিসার",
+			"gender": "male",
+			"dob": "",
+			"blood_group": "",
+			"emp_type": "",
+			"view_type": 1,
+			"mobile_1": "০১৭১৭৭৮৫০৭০",
+			"mobile_2": "",
+			"email": "skabirfire@gmail.com",
+			"section_id": [31],
+			"office_id": [
+				13
+			]
+		},
+		{
+			"empId": 1026,
+			"order_no": 1026,
+			"name": "মোঃ শফিকুল ইসলাম",
+			"image": "http://file-chittagong.portal.gov.bd/files/fireservice.chandpur.gov.bd/officer_list/3bf0606b_c2bf_42aa_a83f_eebfc2593018/21adcad25c70fcff2eb8fb1fbf10f124.png",
+			"designation": "স্টেশন অফিসার",
+			"gender": "male",
+			"dob": "",
+			"blood_group": "",
+			"emp_type": "",
+			"view_type": 1,
+			"mobile_1": "০১৬৭৪৮৭৮৩৪৩",
+			"mobile_2": "",
+			"email": "shafiq2603@gmail.com",
+			"section_id": [31],
+			"office_id": [
+				13
+			]
+		},
+		{
+			"empId": 1027,
+			"order_no": 1027,
+			"name": "মোঃ রাশেদুল আলম",
+			"image": "http://file-chittagong.portal.gov.bd/uploads/4f31425a-4a3f-45e4-92b5-a9105cfed44d//61c/817/bbe/61c817bbe1e80742079925.jpg",
+			"designation": "স্টেশন অফিসার",
+			"gender": "male",
+			"dob": "",
+			"blood_group": "",
+			"emp_type": "",
+			"view_type": 1,
+			"mobile_1": "০১৭০৪৪১৭৬৫০",
+			"mobile_2": "",
+			"email": "rashed01650059@gmail.com",
+			"section_id": [31],
+			"office_id": [
+				13
+			]
+		},
+		{
+			"empId": 1028,
+			"order_no": 1028,
+			"name": "উজ্জ্বল কুমার পাল",
+			"image": "http://file-chittagong.portal.gov.bd/uploads/4b7663c6-7a61-465d-8e66-2f8d6ec6c18d//61b/eed/84f/61beed84f1462979739138.jpg",
+			"designation": "জেলা কমান্ড্যান্ট",
+			"gender": "male",
+			"dob": "",
+			"blood_group": "",
+			"emp_type": "",
+			"view_type": 1,
+			"mobile_1": "০১৭৩০০৩৮০৭৭",
+			"mobile_2": "০৮৪১-৬৩৩৫০",
+			"email": "dcchandpur@ansarvdp.gov.bd",
+			"section_id": [32],
+			"office_id": [
+				13
+			]
+		},
+		{
+			"empId": 1029,
+			"order_no": 1029,
+			"name": "মোঃ শাহনেওয়াজ হোসেন",
+			"image": "http://file-chittagong.portal.gov.bd/files/ansarvdp.chandpur.gov.bd/officer_list/edb7a5f9_cf21_45e7_a1fd_11bc115caba5/8ef3b493afd51661a41e6e0eb7039336.png",
+			"designation": "সহকারী জেলা কমান্ড্যান্ট",
+			"gender": "male",
+			"dob": "",
+			"blood_group": "",
+			"emp_type": "",
+			"view_type": 1,
+			"mobile_1": "০১৭৭৭৭১৫৯২৬",
+			"mobile_2": "০৮৪১-৬৩৩৬০",
+			"email": "dcansarvdpchandpur@gmail.com",
+			"section_id": [32],
+			"office_id": [
+				13
+			]
+		},
+		{
+			"empId": 1030,
+			"order_no": 1030,
+			"name": "লেঃ ফয়সাল বীন রশীদ (এক্স), পিসিজিএম, বিএন",
+			"image": "http://file-chittagong.portal.gov.bd/files/coastguard.chandpur.gov.bd/officer_list/759694b4_8268_4086_b492_6a533e6e85b8/57446812d8a7f9e7da06591b0dc8561a.png",
+			"designation": "স্টেশন কমান্ডার",
+			"gender": "male",
+			"dob": "",
+			"blood_group": "",
+			"emp_type": "",
+			"view_type": 1,
+			"mobile_1": "০১৭৬৬৬৯০৯০০",
+			"mobile_2": "",
+			"email": "nabikfaisal@gmail.com",
+			"section_id": [33],
+			"office_id": [
+				13
+			]
+		},
+		{
+			"empId": 1031,
+			"order_no": 1031,
+			"name": "লেফটেন্যান্ট এম এনায়েত উল্লাহ, (এসডি)(পিএন্ডআরটি), বিএন",
+			"image": "http://file-chittagong.portal.gov.bd/files/coastguard.chandpur.gov.bd/officer_list/30be95ae_2144_11e7_8f57_286ed488c766/Lt%20Enayet.jpg",
+			"designation": "স্টেশন কমান্ডার",
+			"gender": "male",
+			"dob": "",
+			"blood_group": "",
+			"emp_type": "",
+			"view_type": 1,
+			"mobile_1": "০১৭৬৬৬৯০৯০০",
+			"mobile_2": "",
+			"email": "enayet4537@gmail.com",
+			"section_id": [33],
+			"office_id": [
+				13
+			]
+		},
+		{
+			"empId": 1032,
+			"order_no": 1032,
+			"name": "মোঃ এমদাদুল ইসলাম মিঠুন",
+			"image": "http://file-chittagong.portal.gov.bd/uploads/673ba642-0c79-4fbe-ae90-a02d0e3fce3d//61a/efc/9a9/61aefc9a9975e262361460.jpg",
+			"designation": "সহকারী পরিচালক",
+			"gender": "male",
+			"dob": "",
+			"blood_group": "",
+			"emp_type": "",
+			"view_type": 1,
+			"mobile_1": "০১৪০৪০৭২৩৬১",
+			"mobile_2": "০২৩৩৪৪৮৭৮৭৪",
+			"email": "adchadpur@dnc.gov.bd",
+			"section_id": [34],
+			"office_id": [
+				13
+			]
+		},
+		{
+			"empId": 1033,
+			"order_no": 1033,
+			"name": "বাপন সেন",
+			"image": "http://file-chittagong.portal.gov.bd/files/www.dnc.chandpur.gov.bd/staff_list/a8564faa_f251_4087_9f1b_26aca1749d5b/6e462fdb049935a100f6b07959267d3c.png",
+			"designation": "পরিদর্শক",
+			"gender": "male",
+			"dob": "",
+			"blood_group": "",
+			"emp_type": "",
+			"view_type": 1,
+			"mobile_1": "০১৮১৫১৮৪৪৩৭",
+			"mobile_2": "",
+			"email": "inschadpur@dnc.gov.bd",
+			"section_id": [34],
+			"office_id": [
+				13
+			]
+		},
+		{
+			"empId": 1034,
+			"order_no": 1034,
+			"name": "মোহাম্মদ মজিবর রহমান",
+			"image": "http://file-chittagong.portal.gov.bd/files/www.dnc.chandpur.gov.bd/staff_list/11098856_a1df_495e_98c6_e4bd4540c80b/6925e6a7e2a876ab721f661d79319986.png",
+			"designation": "উপ- পরিদর্শক",
+			"gender": "male",
+			"dob": "",
+			"blood_group": "",
+			"emp_type": "",
+			"view_type": 1,
+			"mobile_1": "০১৪০৪০৭২৩৬৩",
+			"mobile_2": "",
+			"email": "sichadpur@dnc.gov.bd",
+			"section_id": [34],
+			"office_id": [
+				13
+			]
+		},
+		{
+			"empId": 1035,
+			"order_no": 1035,
+			"name": "মোহাম্মদ পিয়ার হোসেন",
+			"image": "http://file-chittagong.portal.gov.bd/files/www.dnc.chandpur.gov.bd/staff_list/a6db698a_7c7d_4816_8c96_d16d079bee50/0f585f62d517edfcf3ca3d0fb0500066.png",
+			"designation": "উপ- পরিদর্শক",
+			"gender": "male",
+			"dob": "",
+			"blood_group": "",
+			"emp_type": "",
+			"view_type": 1,
+			"mobile_1": "০১৭৯৫৯৬৯০৩৯",
+			"mobile_2": "",
+			"email": "sichadpur@dnc.gov.bd",
+			"section_id": [34],
+			"office_id": [
+				13
+			]
+		},
+		{
+			"empId": 1036,
+			"order_no": 1036,
+			"name": "ডাঃ মোহাম্মদ সাহাদাৎ হোসেন",
+			"image": "http://file-chittagong.portal.gov.bd/uploads/ceced629-4206-489a-8918-f47d41a684e9//62d/66b/d04/62d66bd049677840807486.jpg",
+			"designation": "সিভিল সার্জন, চাঁদপুর",
+			"gender": "male",
+			"dob": "",
+			"blood_group": "",
+			"emp_type": "",
+			"view_type": 1,
+			"mobile_1": "০১৭৩৩৪৯৯৮৮৯",
+			"mobile_2": "০২৩৩৪৪৮৭৫৭০",
+			"email": "drsahadat5903@gmail.com",
+			"section_id": [35],
+			"office_id": [
+				13
+			]
+		},
+		{
+			"empId": 1036,
+			"order_no": 1036,
+			"name": "ডাঃ মোঃ শাখাওয়াত হোসেন",
+			"image": "http://file-chittagong.portal.gov.bd/uploads/ceced629-4206-489a-8918-f47d41a684e9//634/d0f/735/634d0f735b448560834399.png",
+			"designation": "মেডিকেল অফিসার, ইনচার্জ-এমও",
+			"gender": "male",
+			"dob": "",
+			"blood_group": "",
+			"emp_type": "",
+			"view_type": 1,
+			"mobile_1": "০১৩০৮৯৫২২৯৪",
+			"mobile_2": "০২৩৩৪৪৮৭৫৭০",
+			"email": "drshakhawat1990@gmail.com",
+			"section_id": [35],
+			"office_id": [
+				13
+			]
+		},
+		{
+			"empId": 1037,
+			"order_no": 1037,
+			"name": "মোঃ ইউছুফ",
+			"image": "http://file-chittagong.portal.gov.bd/files/cs.chandpur.gov.bd/officer_list/a93d6790_2144_11e7_8f57_286ed488c766/40_25.jpg",
+			"designation": "জুনিয়র স্বাস্থ্য শিক্ষা অফিসার",
+			"gender": "male",
+			"dob": "",
+			"blood_group": "",
+			"emp_type": "",
+			"view_type": 1,
+			"mobile_1": "০১৭১৬২১৬৩৭২",
+			"mobile_2": "",
+			"email": "chandpur@cs.dghs.gov.bd",
+			"section_id": [35],
+			"office_id": [
+				13
+			]
+		},
+		{
+			"empId": 1038,
+			"order_no": 1038,
+			"name": "ডাঃ এ কে এম মাহাবুবুর রহমান",
+			"image": "http://file-chittagong.portal.gov.bd/uploads/9b4e5a11-9d63-428b-8057-d47562132427//620/1f1/b57/6201f1b570551193602113.jpg",
+			"designation": "তত্ত্বাবধায়ক( চঃ দাঃ)",
+			"gender": "male",
+			"dob": "",
+			"blood_group": "",
+			"emp_type": "",
+			"view_type": 1,
+			"mobile_1": "০৮৪১-৬৩২৯৩",
+			"mobile_2": "",
+			"email": "chandpur@hospi.dghs.gov.bd",
+			"section_id": [36],
+			"office_id": [
+				13
+			]
+		},
+		{
+			"empId": 1039,
+			"order_no": 1039,
+			"name": "জান্নাতুল লুবা বিনতে ইসলাম",
+			"image": "http://file-chittagong.portal.gov.bd/uploads/9b4e5a11-9d63-428b-8057-d47562132427//620/206/616/620206616988d291821523.jpg",
+			"designation": "সহকারী রেজিষ্টার",
+			"gender": "female",
+			"dob": "",
+			"blood_group": "",
+			"emp_type": "",
+			"view_type": 1,
+			"mobile_1": "০১৭৫৩৬৭৮৩৮৭",
+			"mobile_2": "",
+			"email": "jannatullisa.jl@gmail.com",
+			"section_id": [36],
+			"office_id": [
+				13
+			]
+		},
+		{
+			"empId": 1040,
+			"order_no": 1040,
+			"name": "ডাঃ ফরিদা ইয়াসমিন",
+			"image": "http://file-chittagong.portal.gov.bd/uploads/9b4e5a11-9d63-428b-8057-d47562132427//620/202/3e6/6202023e60c2d254090443.jpg",
+			"designation": "ডেন্টাল সার্জন",
+			"gender": "female",
+			"dob": "",
+			"blood_group": "",
+			"emp_type": "",
+			"view_type": 1,
+			"mobile_1": "০১৭৩৪১৪২৭৪৮",
+			"mobile_2": "",
+			"email": "faridamunni87@gmail.com",
+			"section_id": [36],
+			"office_id": [
+				13
+			]
+		},
+		{
+			"empId": 1041,
+			"order_no": 1041,
+			"name": "ডাঃ মোঃ নোমান হোসেন",
+			"image": "http://file-chittagong.portal.gov.bd/uploads/9b4e5a11-9d63-428b-8057-d47562132427//620/1fe/3d9/6201fe3d99c59009272200.jpg",
+			"designation": "আবাসিক চিকিৎসক",
+			"gender": "male",
+			"dob": "",
+			"blood_group": "",
+			"emp_type": "",
+			"view_type": 1,
+			"mobile_1": "০১৭১৭৭৬৯৯০১",
+			"mobile_2": "",
+			"email": "nomantalukder@gmail.com",
+			"section_id": [36],
+			"office_id": [
+				13
+			]
+		},
+		{
+			"empId": 1042,
+			"order_no": 1042,
+			"name": "ডাঃ মাহবুব আলী খান",
+			"image": "",
+			"designation": "সহকারী রেজিষ্টার",
+			"gender": "male",
+			"dob": "",
+			"blood_group": "",
+			"emp_type": "",
+			"view_type": 1,
+			"mobile_1": "০১৭১৪৬১০২২৪",
+			"mobile_2": "",
+			"email": "dr.mahbubkhan@icloud.com",
+			"section_id": [36],
+			"office_id": [
+				13
+			]
+		},
+		{
+			"empId": 1043,
+			"order_no": 1043,
+			"name": "S. M. Iqbal",
+			"image": "",
+			"designation": "Executive Engineer",
+			"gender": "male",
+			"dob": "",
+			"blood_group": "",
+			"emp_type": "",
+			"view_type": 1,
+			"mobile_1": "০১৮৪১১২১২৪৩",
+			"mobile_2": "০৮৪১৬৩২৬১",
+			"email": "sdbpdb_chandpur@yahoo.com",
+			"section_id": [37],
+			"office_id": [
+				13
+			]
+		},
+		{
+			"empId": 1044,
+			"order_no": 1044,
+			"name": "Abdul Muktadir",
+			"image": "",
+			"designation": "Sub-Assistant Engineer",
+			"gender": "male",
+			"dob": "",
+			"blood_group": "",
+			"emp_type": "",
+			"view_type": 1,
+			"mobile_1": "০১৭৭১৯০৫৫০৯",
+			"mobile_2": "",
+			"email": "sdbpdb_chandpur@yahoo.com",
+			"section_id": [37],
+			"office_id": [
+				13
+			]
+		},
+		{
+			"empId": 1045,
+			"order_no": 1045,
+			"name": "Md. Atikullah",
+			"image": "",
+			"designation": "Sub-Assistant Engineer",
+			"gender": "male",
+			"dob": "",
+			"blood_group": "",
+			"emp_type": "",
+			"view_type": 1,
+			"mobile_1": "০১৭৮৭৫৬২৩৯৩",
+			"mobile_2": "",
+			"email": "sdbpdb_chandpur@yahoo.com",
+			"section_id": [37],
+			"office_id": [
+				13
+			]
+		},
+		{
+			"empId": 1046,
+			"order_no": 1046,
+			"name": "Md. Saiful Islam",
+			"image": "",
+			"designation": "Sub-Assistant Engineer",
+			"gender": "male",
+			"dob": "",
+			"blood_group": "",
+			"emp_type": "",
+			"view_type": 1,
+			"mobile_1": "০১৭০৮৫৫২৩৭৮",
+			"mobile_2": "",
+			"email": "sdbpdb_chandpur@yahoo.com",
+			"section_id": [37],
+			"office_id": [
+				13
+			]
+		},
+		{
+			"empId": 1047,
+			"order_no": 1047,
+			"name": "মোঃ ইদ্রিস আলী মিঞা",
+			"image": "http://file-chittagong.portal.gov.bd/uploads/6a40b5a9-c7de-49b9-b87f-4c9b89007f07//62f/751/ba0/62f751ba0f250161857457.jpg",
+			"designation": "নির্বাহী প্রকৌশলী (এসওডি)",
+			"gender": "male",
+			"dob": "",
+			"blood_group": "",
+			"emp_type": "",
+			"view_type": 1,
+			"mobile_1": "০১৭১১৫৭৭৬১৭",
+			"mobile_2": "০২৩৩৪৪৮৭৮৭৫",
+			"email": "xenbrebchandpur@gmail.com",
+			"section_id": [38],
+			"office_id": [
+				13
+			]
+		},
+		{
+			"empId": 1048,
+			"order_no": 1048,
+			"name": "মোঃ সফিকুর রহমান",
+			"image": "http://file-chittagong.portal.gov.bd/uploads/6a40b5a9-c7de-49b9-b87f-4c9b89007f07//62f/74f/976/62f74f9767136894625025.jpg",
+			"designation": "সহকারী প্রকৌশলী",
+			"gender": "male",
+			"dob": "",
+			"blood_group": "",
+			"emp_type": "",
+			"view_type": 1,
+			"mobile_1": "০১৬২৬৫০১০৭৭",
+			"mobile_2": "",
+			"email": "safiqbreb@gmail.com",
+			"section_id": [38],
+			"office_id": [
+				13
+			]
+		},
+		{
+			"empId": 1049,
+			"order_no": 1049,
+			"name": "মোঃ আজমুল হোসেন",
+			"image": "",
+			"designation": "সহকারী প্রকৌশলী",
+			"gender": "male",
+			"dob": "",
+			"blood_group": "",
+			"emp_type": "",
+			"view_type": 1,
+			"mobile_1": "০১৬১৪৮২৮৪৮৭",
+			"mobile_2": "",
+			"email": "xenbrebchandpur@gmail.com",
+			"section_id": [38],
+			"office_id": [
+				13
+			]
+		},
+		{
+			"empId": 1050,
+			"order_no": 1050,
+			"name": "মোঃ আতিকুজ্জামান চৌধুরী",
+			"image": "http://file-chittagong.portal.gov.bd/files/pbs1.chandpur.gov.bd/officer_list/91620b93_7d38_43e6_9ffe_74b1c164a96b/a680299642227bd5e5952bbf9cf0d8be.png",
+			"designation": "জেনারেল ম্যানেজার",
+			"gender": "male",
+			"dob": "",
+			"blood_group": "",
+			"emp_type": "",
+			"view_type": 1,
+			"mobile_1": "০১৭৬৯৪০০০১৬",
+			"mobile_2": "",
+			"email": "chandpbs@yahoo.com",
+			"section_id": [39],
+			"office_id": [
+				13
+			]
+		},
+		{
+			"empId": 1050,
+			"order_no": 1050,
+			"name": "মোঃ বেলায়েত হোসেন",
+			"image": "http://file-chittagong.portal.gov.bd/files/pbs1.chandpur.gov.bd/officer_list/b8520095_25e1_4d50_a8c6_26faaa6f7af0/cef4efb55b2445d712ca40e52f59bc46.png",
+			"designation": "ডিজিএম (কচুয়া জোনাল অফিস)",
+			"gender": "male",
+			"dob": "",
+			"blood_group": "",
+			"emp_type": "",
+			"view_type": 1,
+			"mobile_1": "০১৭৬৯৪০০০৯৭",
+			"mobile_2": "",
+			"email": "kzo_chandpbs@yahoo.com",
+			"section_id": [39],
+			"office_id": [
+				13
+			]
+		},
+		{
+			"empId": 1051,
+			"order_no": 1051,
+			"name": "মোঃ ওমর আলী",
+			"image": "http://file-chittagong.portal.gov.bd/uploads/20c8985b-29e1-4657-bb2e-cc0dcba95b0c//61d/fd0/1b0/61dfd01b0b0bd937177379.jpeg",
+			"designation": "ডিজিএম (কারিগরী)",
+			"gender": "male",
+			"dob": "",
+			"blood_group": "",
+			"emp_type": "",
+			"view_type": 1,
+			"mobile_1": "০১৭৭৭৭৮৪৪৫৪",
+			"mobile_2": "",
+			"email": "chandpbs@yahoo.com",
+			"section_id": [39],
+			"office_id": [
+				13
+			]
+		},
+		{
+			"empId": 1052,
+			"order_no": 1052,
+			"name": "মোবারক হোসেন সরকার",
+			"image": "http://file-chittagong.portal.gov.bd/files/pbs1.chandpur.gov.bd/officer_list/a69deb2d_5433_4d3b_8678_b506a6d33ffc/1e45be33386800ec13f096b7589e1e74.png",
+			"designation": "ডিজিএম (শাহরাস্তি জোনাল অফিস)",
+			"gender": "male",
+			"dob": "",
+			"blood_group": "",
+			"emp_type": "",
+			"view_type": 1,
+			"mobile_1": "০১৭৬৯৪০০০৯৯",
+			"mobile_2": "",
+			"email": "szo_chandpbs@yahoo.com",
+			"section_id": [39],
+			"office_id": [
+				13
+			]
+		},
+		{
+			"empId": 1053,
+			"order_no": 1053,
+			"name": "মোঃ আশাদুল আজম",
+			"image": "http://file-chittagong.portal.gov.bd/files/pbs1.chandpur.gov.bd/officer_list/de832b13_43cc_48cd_ad16_119d35aa01d8/84b98fb6d11a16c18cf6aff11dcd18f5.png",
+			"designation": "এজিএম (প্রশাসন), সদর দপ্তর",
+			"gender": "male",
+			"dob": "",
+			"blood_group": "",
+			"emp_type": "",
+			"view_type": 1,
+			"mobile_1": "০১৭৬৯৪০০৩৩০",
+			"mobile_2": "",
+			"email": "chandpbs@yahoo.com",
+			"section_id": [39],
+			"office_id": [
+				13
+			]
+		},
+		{
+			"empId": 1054,
+			"order_no": 1054,
+			"name": "রাজন পাল",
+			"image": "http://file-chittagong.portal.gov.bd/uploads/20c8985b-29e1-4657-bb2e-cc0dcba95b0c//62a/5b9/0ed/62a5b90ededad076280252.jpg",
+			"designation": "এজিএম (অর্থ-হিসাব), সদর দপ্তর",
+			"gender": "male",
+			"dob": "",
+			"blood_group": "",
+			"emp_type": "",
+			"view_type": 1,
+			"mobile_1": "০১৭৬৯৪০০৩২৫",
+			"mobile_2": "",
+			"email": "chandpbs@yahoo.com",
+			"section_id": [39],
+			"office_id": [
+				13
+			]
+		},
+		{
+			"empId": 1055,
+			"order_no": 1055,
+			"name": "মুহাম্মদ মজিবুর রহমান",
+			"image": "http://file-chittagong.portal.gov.bd/files/pbs1.chandpur.gov.bd/officer_list/78cdf1e9_4ceb_4b80_99db_445ea25b0625/876ee77d5c59de147555f4e24e08b6eb.png",
+			"designation": "এজিএম (ওএন্ডএম), সদর দপ্তর",
+			"gender": "male",
+			"dob": "",
+			"blood_group": "",
+			"emp_type": "",
+			"view_type": 1,
+			"mobile_1": "০১৭৬৯৪০০৩২৬",
+			"mobile_2": "",
+			"email": "mojiburrahman1981@gmail.com",
+			"section_id": [39],
+			"office_id": [
+				13
+			]
+		},
+		{
+			"empId": 1056,
+			"order_no": 1056,
+			"name": "মোহাম্মদ ফারুক",
+			"image": "http://file-chittagong.portal.gov.bd/uploads/20c8985b-29e1-4657-bb2e-cc0dcba95b0c//62c/66f/6f2/62c66f6f2929e313119868.jpeg",
+			"designation": "এজিএম(ওএন্ডএম), সাচার সাব-জোনাল অফিস",
+			"gender": "male",
+			"dob": "",
+			"blood_group": "",
+			"emp_type": "",
+			"view_type": 1,
+			"mobile_1": "০১৭৬৯৪০৭৬০৬",
+			"mobile_2": "",
+			"email": "sszo_chandpbs@yahoo.com",
+			"section_id": [39],
+			"office_id": [
+				13
+			]
+		},
+		{
+			"empId": 1057,
+			"order_no": 1057,
+			"name": "প্রকাশ কুমার সাহা",
+			"image": "http://file-chittagong.portal.gov.bd/files/pbs1.chandpur.gov.bd/officer_list/ad85c82f_493c_4ab3_a4d5_54cbfd826790/a536420344796ccc425b1fb8b2910245.png",
+			"designation": "এজিএম(সদস্য সেবা), সদর দপ্তর",
+			"gender": "male",
+			"dob": "",
+			"blood_group": "",
+			"emp_type": "",
+			"view_type": 1,
+			"mobile_1": "০১৭৬৯৪০০৩২৩",
+			"mobile_2": "",
+			"email": "sahaprokash99@gmail.com",
+			"section_id": [39],
+			"office_id": [
+				13
+			]
+		},
+		{
+			"empId": 1058,
+			"order_no": 1058,
+			"name": "প্মোঃ মাসুম মিয়া",
+			"image": "http://file-chittagong.portal.gov.bd/files/pbs1.chandpur.gov.bd/officer_list/2f43361e_1456_45fd_9f22_feefdfa28b55/363882356e481e39172c602f0de10dfd.png",
+			"designation": "এজিএম (ইএন্ডসি), সদর দপ্তর",
+			"gender": "male",
+			"dob": "",
+			"blood_group": "",
+			"emp_type": "",
+			"view_type": 1,
+			"mobile_1": "০১৭০৪১০৮৯৮৬",
+			"mobile_2": "",
+			"email": "chandpbs@yahoo.com",
+			"section_id": [39],
+			"office_id": [
+				13
+			]
+		},
+		{
+			"empId": 1059,
+			"order_no": 1059,
+			"name": "মোঃ মনির উজ জামান",
+			"image": "http://file-chittagong.portal.gov.bd/files/pbs1.chandpur.gov.bd/officer_list/792dbb29_acb7_43c6_bf1e_9f541d2aa692/84ae19a0ecbe4c7191ab4bb1f60b4a81.png",
+			"designation": "এজিএম (আইটি), সদর দপ্তর",
+			"gender": "male",
+			"dob": "",
+			"blood_group": "",
+			"emp_type": "",
+			"view_type": 1,
+			"mobile_1": "০১৭০৪১০৬৬৮১",
+			"mobile_2": "",
+			"email": "monir.zaman1841@gmail.com",
+			"section_id": [39],
+			"office_id": [
+				13
+			]
+		},
+		{
+			"empId": 1060,
+			"order_no": 1060,
+			"name": "মোঃ আবু হানিফ",
+			"image": "http://file-chittagong.portal.gov.bd/files/pbs1.chandpur.gov.bd/officer_list/525a156d_b58d_4ca2_b9de_f5350bb4e2ab/2c5a629b2bdb8ed0343f5b631676d974.png",
+			"designation": "এজিএম(ওএন্ডএম), কচুয়া জোনাল অফিস",
+			"gender": "male",
+			"dob": "",
+			"blood_group": "",
+			"emp_type": "",
+			"view_type": 1,
+			"mobile_1": "০১৭৬৯৪০০৩৩১",
+			"mobile_2": "",
+			"email": "kzo_chandpbs@yahoo.com",
+			"section_id": [39],
+			"office_id": [
+				13
+			]
+		},
+		{
+			"empId": 1061,
+			"order_no": 1061,
+			"name": "রাবেয়া আক্তার",
+			"image": "http://file-chittagong.portal.gov.bd/uploads/20c8985b-29e1-4657-bb2e-cc0dcba95b0c//620/0a4/d41/6200a4d412bfd428071633.jpeg",
+			"designation": "এজিএম (আইটি), সদর দপ্তর",
+			"gender": "female",
+			"dob": "",
+			"blood_group": "",
+			"emp_type": "",
+			"view_type": 1,
+			"mobile_1": "০১৭১৪১০৫৮৩৭",
+			"mobile_2": "",
+			"email": "rabeya.duetcse121@gmail.com",
+			"section_id": [39],
+			"office_id": [
+				13
+			]
 		}
 	]
 }

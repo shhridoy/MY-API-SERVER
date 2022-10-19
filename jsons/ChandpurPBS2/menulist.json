@@ -1,5 +1,5 @@
 {
-	"version": 1.16,
+	"version": 1.17,
 	"home_menu_offices": [
 
 		{
@@ -384,6 +384,94 @@
 			"parent_id": "",
 			"has_child": true,
 			"title": "কারিগরী বিভাগ",
+			"link": null
+		},
+		{
+			"order_no": 3,
+			"id": 29,
+			"parent_id": "",
+			"has_child": false,
+			"title": "পুলিশ সুপারের কার্যালয়",
+			"link": null
+		},
+		{
+			"order_no": 3,
+			"id": 30,
+			"parent_id": "",
+			"has_child": false,
+			"title": "জেলা কারাগার",
+			"link": null
+		},
+		{
+			"order_no": 4,
+			"id": 31,
+			"parent_id": "",
+			"has_child": false,
+			"title": "ফায়ার সার্ভিস ও সিভিল ডিফেন্স",
+			"link": null
+		},
+		{
+			"order_no": 5,
+			"id": 32,
+			"parent_id": "",
+			"has_child": false,
+			"title": "আনসার ও গ্রাম প্রতিরক্ষা বাহিনী",
+			"link": null
+		},
+		{
+			"order_no": 6,
+			"id": 33,
+			"parent_id": "",
+			"has_child": false,
+			"title": "কোস্ট গার্ড ষ্টেশন",
+			"link": null
+		},
+		{
+			"order_no": 7,
+			"id": 34,
+			"parent_id": "",
+			"has_child": false,
+			"title": "মাদকদ্রব্য নিয়ন্ত্রণ অধিদপ্তর",
+			"link": null
+		},
+		{
+			"order_no": 8,
+			"id": 35,
+			"parent_id": "",
+			"has_child": false,
+			"title": "সিভিল সার্জনের কার্যালয়",
+			"link": null
+		},
+		{
+			"order_no": 9,
+			"id": 36,
+			"parent_id": "",
+			"has_child": false,
+			"title": "২৫০ শয্যা বিশিষ্ট জেনারেল হাসপাতাল, চাঁদপুর",
+			"link": null
+		},
+		{
+			"order_no": 2,
+			"id": 37,
+			"parent_id": "",
+			"has_child": false,
+			"title": "বিদ্যুৎ উন্নয়ন বোর্ড, চাঁদপুর",
+			"link": null
+		},
+		{
+			"order_no": 1,
+			"id": 38,
+			"parent_id": "",
+			"has_child": false,
+			"title": "পল্লী বিদ্যুতায়ন বোর্ড, চাঁদপুর",
+			"link": null
+		},
+		{
+			"order_no": 1,
+			"id": 39,
+			"parent_id": "",
+			"has_child": false,
+			"title": "চাঁদপুর পল্লী বিদ্যুৎ সমিতি-১",
 			"link": null
 		}
 	],
