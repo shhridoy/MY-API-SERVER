@@ -124,7 +124,7 @@
 			"id": 13,
 			"title": "জেলার জরুরী যোগাযোগ",
 			"icon": "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/icon12.png",
-			"sub_menu": [],
+			"sub_menu": [29,30,31,32,33,34,35,36,37,38,39],
 			"sub_menu_1": [],
 			"details_link": ""
 		},
