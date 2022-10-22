@@ -115,8 +115,8 @@
 			"id": 12,
 			"title": "অভিযোগ কেন্দ্র সমূহ",
 			"icon": "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/icon12.png",
-			"sub_menu": [11, 12, 13, 14, 15, 16, 17, 22, 26, 27],
-			"sub_menu_1": [],
+			"sub_menu": [52, 11, 12, 13, 14, 15, 16, 17, 22, 26, 27],
+			"sub_menu_1": [52],
 			"details_link": ""
 		},
 		{
@@ -124,7 +124,7 @@
 			"id": 13,
 			"title": "জেলার জরুরী যোগাযোগ",
 			"icon": "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/icon12.png",
-			"sub_menu": [29,30,31,32,33,34,35,36,37,38,39],
+			"sub_menu": [29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44],
 			"sub_menu_1": [],
 			"details_link": ""
 		},
@@ -133,7 +133,7 @@
 			"id": 14,
 			"title": "পল্লী বিদ্যুতের অন্যান্য সেবা",
 			"icon": "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/icon13.png",
-			"sub_menu": [],
+			"sub_menu": [45,49,50,51],
 			"sub_menu_1": [],
 			"details_link": ""
 		},
@@ -472,6 +472,110 @@
 			"parent_id": "",
 			"has_child": false,
 			"title": "চাঁদপুর পল্লী বিদ্যুৎ সমিতি-১",
+			"link": null
+		},
+		{
+			"order_no": 10,
+			"id": 40,
+			"parent_id": "",
+			"has_child": false,
+			"title": "জেলা নির্বাচন অফিস, চাঁদপুর",
+			"link": null
+		},
+		{
+			"order_no": 11,
+			"id": 41,
+			"parent_id": "",
+			"has_child": false,
+			"title": "বিআরটিএ, চাঁদপুর",
+			"link": null
+		},
+		{
+			"order_no": 12,
+			"id": 42,
+			"parent_id": "",
+			"has_child": false,
+			"title": "সড়ক বিভাগ, চাঁদপুর",
+			"link": null
+		},
+		{
+			"order_no": 13,
+			"id": 43,
+			"parent_id": "",
+			"has_child": false,
+			"title": "গণপূর্ত বিভাগ, চাঁদপুর",
+			"link": null
+		},
+		{
+			"order_no": 0,
+			"id": 44,
+			"parent_id": "",
+			"has_child": false,
+			"title": "জেলা প্রশাসন, চাঁদপুর",
+			"link": null
+		},
+		{
+			"order_no": 0,
+			"id": 45,
+			"parent_id": "",
+			"has_child": true,
+			"title": "অনলাইনে বিদ্যুৎ বিল পরিশোধ",
+			"link": null
+		},
+		{
+			"order_no": 0,
+			"id": 46,
+			"parent_id": "45",
+			"has_child": false,
+			"title": "বিকাশের মাধ্যমে বিদ্যুৎ বিল পরিশোধের নিয়মাবলী",
+			"link": "https://www.bkash.com/bn/paybill/pallibidyut"
+		},
+		{
+			"order_no": 1,
+			"id": 47,
+			"parent_id": "45",
+			"has_child": false,
+			"title": "রকেটের মাধ্যমে বিদ্যুৎ বিল পরিশোধের নিয়মাবলী",
+			"link": "https://www.technicalcarebd.com/2021/08/Palli-Bidyut-Bill-Payment-by-Rocket.html"
+		},
+		{
+			"order_no": 2,
+			"id": 48,
+			"parent_id": "45",
+			"has_child": false,
+			"title": "টেলিটকের মাধ্যমে বিদ্যুৎ বিল পরিশোধের নিয়মাবলী",
+			"link": "https://www.teletalk.com.bd/bn/vas/reb-bill-payment/reb-bill-pay-sms"
+		},
+		{
+			"order_no": 1,
+			"id": 49,
+			"parent_id": "",
+			"has_child": false,
+			"title": "পল্লী বিদ্যুৎ ডিজিটাল ফোনবুক",
+			"link": "https://play.google.com/store/apps/details?id=reb.ebook.contackbook"
+		},
+		{
+			"order_no": 2,
+			"id": 50,
+			"parent_id": "",
+			"has_child": false,
+			"title": "'পল্লীবিদ্যুৎ সেবা' মোবাইল অ্যাপ",
+			"link": "https://play.google.com/store/apps/details?id=org.breb.pollibiddut"
+		},
+		{
+			"order_no": 3,
+			"id": 51,
+			"parent_id": "",
+			"has_child": false,
+			"title": "ডিজিটাল বিল পেমেন্ট সার্টিফিকেট",
+			"link": "http://billcert.rebpbs.com/"
+		},
+		{
+			"order_no": 0,
+			"id": 52,
+			"parent_id": "",
+			"has_child": false,
+			"title": "গ্রাহক সেবাকেন্দ্র",
 			"link": null
 		}
 	],
