@@ -133,8 +133,8 @@
 			"id": 14,
 			"title": "পল্লী বিদ্যুতের অন্যান্য সেবা",
 			"icon": "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/icon13.png",
-			"sub_menu": [53,45,49,50,51],
-			"sub_menu_1": [45,49,50,51],
+			"sub_menu": [45,49,50,51],
+			"sub_menu_1": [],
 			"details_link": ""
 		},
 		{
@@ -150,7 +150,14 @@
 	],
 
 	"drawer_menu": [
-
+		{
+			"order_no": 0,
+			"id": 0,
+			"parent_id": "",
+			"has_child": false,
+			"title": "অ্যাপস সম্পর্কিত অভিযোগ",
+			"link": "https://forms.gle/gNPabrFmRGH4eC5S9"
+		}
 	],
 
 	"sub_menu_sections": [
@@ -577,14 +584,6 @@
 			"has_child": false,
 			"title": "গ্রাহক সেবাকেন্দ্র",
 			"link": null
-		},
-		{
-			"order_no": 0,
-			"id": 53,
-			"parent_id": "",
-			"has_child": false,
-			"title": "অ্যাপস সম্পর্কিত অভিযোগ",
-			"link": "https://docs.google.com/forms/d/e/1FAIpQLSel2QTyyVqROc5xqhkrJJfzTafqSKjlP6Fyz3VsrCRa0J6uBQ/viewform?usp=sf_link"
 		}
 	],
 
