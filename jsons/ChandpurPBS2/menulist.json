@@ -152,6 +152,16 @@
 	"drawer_menu": [
         {
 			"order_no": 0,
+			"id": 0,
+            "icon": "",
+			"title": "নোটিশ সমূহ",
+			"link": "15",
+            "link_type": 3,
+            "menu_group": 1,
+            "view_type": 1
+		},
+        {
+			"order_no": 0,
 			"id": 1,
             "icon": "",
 			"title": "অ্যাপস সম্পর্কিত অভিযোগ",
