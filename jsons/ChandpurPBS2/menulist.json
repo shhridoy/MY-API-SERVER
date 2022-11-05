@@ -199,7 +199,8 @@
 			"parent_id": "",
 			"has_child": false,
 			"title": "অফিস প্রধান",
-			"link": null
+			"link": null, 
+            "link_type": 0
 		},
 		{
 			"order_no": 1,
@@ -207,7 +208,8 @@
 			"parent_id": "",
 			"has_child": true,
 			"title": "ফিন্যান্স শাখা",
-			"link": null
+			"link": null, 
+            "link_type": 0
 		},
 		{
 			"order_no": 5,
@@ -215,7 +217,8 @@
 			"parent_id": "",
 			"has_child": false,
 			"title": "সদস্য সেবা শাখা",
-			"link": null
+			"link": null, 
+            "link_type": 0
 		},
 		{
 			"order_no": 4,
@@ -223,7 +226,8 @@
 			"parent_id": "",
 			"has_child": false,
 			"title": "প্রশাসন/মানব সম্পদ শাখা",
-			"link": null
+			"link": null, 
+            "link_type": 0
 		},
 		{
 			"order_no": 2,
@@ -231,7 +235,8 @@
 			"parent_id": "28",
 			"has_child": false,
 			"title": "ওএন্ডএম শাখা",
-			"link": null
+			"link": null, 
+            "link_type": 0
 		},
 		{
 			"order_no": 3,
@@ -239,7 +244,8 @@
 			"parent_id": "28",
 			"has_child": false,
 			"title": "ইএন্ডসি শাখা",
-			"link": null
+			"link": null, 
+            "link_type": 0
 		},
 		{
 			"order_no": 6,
@@ -247,7 +253,8 @@
 			"parent_id": "",
 			"has_child": false,
 			"title": "আইটি শাখা",
-			"link": null
+			"link": null, 
+            "link_type": 0
 		},
 		{
 			"order_no": 1,
@@ -255,7 +262,8 @@
 			"parent_id": "1",
 			"has_child": false,
 			"title": "হিসাব শাখা",
-			"link": null
+			"link": null, 
+            "link_type": 0
 		},
 		{
 			"order_no": 2,
@@ -263,7 +271,8 @@
 			"parent_id": "1",
 			"has_child": false,
 			"title": "রাজস্ব শাখা",
-			"link": null
+			"link": null, 
+            "link_type": 0
 		},
 		{
 			"order_no": 9,
@@ -271,7 +280,8 @@
 			"parent_id": "",
 			"has_child": false,
 			"title": "কর্মকর্তাবৃন্দ",
-			"link": null
+			"link": null, 
+            "link_type": 0
 		},
 		{
 			"order_no": 10,
@@ -279,7 +289,8 @@
 			"parent_id": "",
 			"has_child": false,
 			"title": "কর্মচারীবৃন্দ",
-			"link": null
+			"link": null, 
+            "link_type": 0
 		},
 		{
 			"order_no": 11,
@@ -287,7 +298,8 @@
 			"parent_id": "",
 			"has_child": false,
 			"title": "বাগাদী অভিযোগ কেন্দ্র",
-			"link": null
+			"link": null, 
+            "link_type": 0
 		},
 		{
 			"order_no": 12,
@@ -295,7 +307,8 @@
 			"parent_id": "",
 			"has_child": false,
 			"title": "বালিয়া অভিযোগ কেন্দ্র",
-			"link": null
+			"link": null, 
+            "link_type": 0
 		},
 		{
 			"order_no": 13,
@@ -303,7 +316,8 @@
 			"parent_id": "",
 			"has_child": false,
 			"title": "বাগানবাড়ী অভিযোগ কেন্দ্র",
-			"link": null
+			"link": null, 
+            "link_type": 0
 		},
 		{
 			"order_no": 14,
@@ -311,7 +325,8 @@
 			"parent_id": "",
 			"has_child": false,
 			"title": "নারায়নপুর অভিযোগ কেন্দ্র",
-			"link": null
+			"link": null, 
+            "link_type": 0
 		},
 		{
 			"order_no": 15,
@@ -319,7 +334,8 @@
 			"parent_id": "",
 			"has_child": false,
 			"title": "ফরাজিকান্দি অভিযোগ কেন্দ্র",
-			"link": null
+			"link": null, 
+            "link_type": 0
 		},
 		{
 			"order_no": 16,
@@ -327,7 +343,8 @@
 			"parent_id": "",
 			"has_child": false,
 			"title": "চান্দ্রা অভিযোগ কেন্দ্র",
-			"link": null
+			"link": null, 
+            "link_type": 0
 		},
 		{
 			"order_no": 17,
@@ -335,7 +352,8 @@
 			"parent_id": "",
 			"has_child": false,
 			"title": "সুজাতপুর অভিযোগ কেন্দ্র",
-			"link": null
+			"link": null, 
+            "link_type": 0
 		},
 		{
 			"order_no": 18,
@@ -343,7 +361,8 @@
 			"parent_id": "",
 			"has_child": false,
 			"title": "মহামায়া এরিয়া অফিস",
-			"link": null
+			"link": null, 
+            "link_type": 0
 		},
 		{
 			"order_no": 19,
@@ -351,7 +370,8 @@
 			"parent_id": "",
 			"has_child": false,
 			"title": "বালিয়া ইনডোর উপকেন্দ্র",
-			"link": null
+			"link": null, 
+            "link_type": 0
 		},
 		{
 			"order_no": 20,
@@ -359,7 +379,8 @@
 			"parent_id": "",
 			"has_child": false,
 			"title": "কামতা ইনডোর উপকেন্দ্র",
-			"link": null
+			"link": null, 
+            "link_type": 0
 		},
 		{
 			"order_no": 21,
@@ -367,7 +388,8 @@
 			"parent_id": "",
 			"has_child": false,
 			"title": "সুজাতপুর ইনডোর উপকেন্দ্র",
-			"link": null
+			"link": null, 
+            "link_type": 0
 		},
 		{
 			"order_no": 21,
@@ -375,7 +397,8 @@
 			"parent_id": "",
 			"has_child": false,
 			"title": "রামপুর অভিযোগ কেন্দ্র",
-			"link": null
+			"link": null, 
+            "link_type": 0
 		},
 		{
 			"order_no": 23,
@@ -383,7 +406,8 @@
 			"parent_id": "",
 			"has_child": false,
 			"title": "রামপুর অভিযোগ কেন্দ্র",
-			"link": null
+			"link": null, 
+            "link_type": 0
 		},
 		{
 			"order_no": 24,
@@ -391,7 +415,8 @@
 			"parent_id": "",
 			"has_child": false,
 			"title": "রামগঞ্জ গ্রীড",
-			"link": null
+			"link": null, 
+            "link_type": 0
 		},
 		{
 			"order_no": 25,
@@ -399,7 +424,8 @@
 			"parent_id": "",
 			"has_child": false,
 			"title": "কচুয়া গ্রীড",
-			"link": null
+			"link": null, 
+            "link_type": 0
 		},
 		{
 			"order_no": 23,
@@ -407,7 +433,8 @@
 			"parent_id": "",
 			"has_child": false,
 			"title": "খদেরগাঁও অভিযোগ কেন্দ্র",
-			"link": null
+			"link": null, 
+            "link_type": 0
 		},
 		{
 			"order_no": 23,
@@ -415,7 +442,8 @@
 			"parent_id": "",
 			"has_child": false,
 			"title": "সাহেবগঞ্জ অভিযোগ কেন্দ্র",
-			"link": null
+			"link": null, 
+            "link_type": 0
 		},
 		{
 			"order_no": 2,
@@ -423,7 +451,8 @@
 			"parent_id": "",
 			"has_child": true,
 			"title": "কারিগরী বিভাগ",
-			"link": null
+			"link": null, 
+            "link_type": 0
 		},
 		{
 			"order_no": 3,
@@ -431,7 +460,8 @@
 			"parent_id": "",
 			"has_child": false,
 			"title": "পুলিশ সুপারের কার্যালয়",
-			"link": null
+			"link": null, 
+            "link_type": 0
 		},
 		{
 			"order_no": 3,
@@ -439,7 +469,8 @@
 			"parent_id": "",
 			"has_child": false,
 			"title": "জেলা কারাগার",
-			"link": null
+			"link": null, 
+            "link_type": 0
 		},
 		{
 			"order_no": 4,
@@ -447,7 +478,8 @@
 			"parent_id": "",
 			"has_child": false,
 			"title": "ফায়ার সার্ভিস ও সিভিল ডিফেন্স",
-			"link": null
+			"link": null, 
+            "link_type": 0
 		},
 		{
 			"order_no": 5,
@@ -455,7 +487,8 @@
 			"parent_id": "",
 			"has_child": false,
 			"title": "আনসার ও গ্রাম প্রতিরক্ষা বাহিনী",
-			"link": null
+			"link": null, 
+            "link_type": 0
 		},
 		{
 			"order_no": 6,
@@ -463,7 +496,8 @@
 			"parent_id": "",
 			"has_child": false,
 			"title": "কোস্ট গার্ড ষ্টেশন",
-			"link": null
+			"link": null, 
+            "link_type": 0
 		},
 		{
 			"order_no": 7,
@@ -471,7 +505,8 @@
 			"parent_id": "",
 			"has_child": false,
 			"title": "মাদকদ্রব্য নিয়ন্ত্রণ অধিদপ্তর",
-			"link": null
+			"link": null, 
+            "link_type": 0
 		},
 		{
 			"order_no": 8,
@@ -479,7 +514,8 @@
 			"parent_id": "",
 			"has_child": false,
 			"title": "সিভিল সার্জনের কার্যালয়",
-			"link": null
+			"link": null, 
+            "link_type": 0
 		},
 		{
 			"order_no": 9,
@@ -487,7 +523,8 @@
 			"parent_id": "",
 			"has_child": false,
 			"title": "২৫০ শয্যা বিশিষ্ট জেনারেল হাসপাতাল, চাঁদপুর",
-			"link": null
+			"link": null, 
+            "link_type": 0
 		},
 		{
 			"order_no": 2,
@@ -495,7 +532,8 @@
 			"parent_id": "",
 			"has_child": false,
 			"title": "বিদ্যুৎ উন্নয়ন বোর্ড, চাঁদপুর",
-			"link": null
+			"link": null, 
+            "link_type": 0
 		},
 		{
 			"order_no": 1,
@@ -503,7 +541,8 @@
 			"parent_id": "",
 			"has_child": false,
 			"title": "পল্লী বিদ্যুতায়ন বোর্ড, চাঁদপুর",
-			"link": null
+			"link": null, 
+            "link_type": 0
 		},
 		{
 			"order_no": 1,
@@ -511,7 +550,8 @@
 			"parent_id": "",
 			"has_child": false,
 			"title": "চাঁদপুর পল্লী বিদ্যুৎ সমিতি-১",
-			"link": null
+			"link": null, 
+            "link_type": 0
 		},
 		{
 			"order_no": 10,
@@ -519,7 +559,8 @@
 			"parent_id": "",
 			"has_child": false,
 			"title": "জেলা নির্বাচন অফিস, চাঁদপুর",
-			"link": null
+			"link": null, 
+            "link_type": 0
 		},
 		{
 			"order_no": 11,
@@ -527,7 +568,8 @@
 			"parent_id": "",
 			"has_child": false,
 			"title": "বিআরটিএ, চাঁদপুর",
-			"link": null
+			"link": null, 
+            "link_type": 0
 		},
 		{
 			"order_no": 12,
@@ -535,7 +577,8 @@
 			"parent_id": "",
 			"has_child": false,
 			"title": "সড়ক বিভাগ, চাঁদপুর",
-			"link": null
+			"link": null, 
+            "link_type": 0
 		},
 		{
 			"order_no": 13,
@@ -543,7 +586,8 @@
 			"parent_id": "",
 			"has_child": false,
 			"title": "গণপূর্ত বিভাগ, চাঁদপুর",
-			"link": null
+			"link": null, 
+            "link_type": 0
 		},
 		{
 			"order_no": 0,
@@ -551,7 +595,8 @@
 			"parent_id": "",
 			"has_child": false,
 			"title": "জেলা প্রশাসন, চাঁদপুর",
-			"link": null
+			"link": null, 
+            "link_type": 0
 		},
 		{
 			"order_no": 0,
@@ -559,7 +604,8 @@
 			"parent_id": "",
 			"has_child": true,
 			"title": "অনলাইনে বিদ্যুৎ বিল পরিশোধ",
-			"link": null
+			"link": null, 
+            "link_type": 0
 		},
 		{
 			"order_no": 0,
@@ -567,7 +613,8 @@
 			"parent_id": "45",
 			"has_child": false,
 			"title": "বিকাশের মাধ্যমে বিদ্যুৎ বিল পরিশোধের নিয়মাবলী",
-			"link": "https://www.bkash.com/bn/paybill/pallibidyut"
+			"link": "https://www.bkash.com/bn/paybill/pallibidyut",
+            "link_type": 1
 		},
 		{
 			"order_no": 1,
@@ -575,7 +622,8 @@
 			"parent_id": "45",
 			"has_child": false,
 			"title": "রকেটের মাধ্যমে বিদ্যুৎ বিল পরিশোধের নিয়মাবলী",
-			"link": "https://www.technicalcarebd.com/2021/08/Palli-Bidyut-Bill-Payment-by-Rocket.html"
+			"link": "https://www.technicalcarebd.com/2021/08/Palli-Bidyut-Bill-Payment-by-Rocket.html",
+            "link_type": 1
 		},
 		{
 			"order_no": 2,
@@ -583,7 +631,8 @@
 			"parent_id": "45",
 			"has_child": false,
 			"title": "টেলিটকের মাধ্যমে বিদ্যুৎ বিল পরিশোধের নিয়মাবলী",
-			"link": "https://www.teletalk.com.bd/bn/vas/reb-bill-payment/reb-bill-pay-sms"
+			"link": "https://www.teletalk.com.bd/bn/vas/reb-bill-payment/reb-bill-pay-sms",
+            "link_type": 1
 		},
 		{
 			"order_no": 1,
@@ -591,7 +640,8 @@
 			"parent_id": "",
 			"has_child": false,
 			"title": "পল্লী বিদ্যুৎ ডিজিটাল ফোনবুক",
-			"link": "https://play.google.com/store/apps/details?id=reb.ebook.contackbook"
+			"link": "https://play.google.com/store/apps/details?id=reb.ebook.contackbook",
+            "link_type": 2
 		},
 		{
 			"order_no": 2,
@@ -599,7 +649,8 @@
 			"parent_id": "",
 			"has_child": false,
 			"title": "'পল্লীবিদ্যুৎ সেবা' মোবাইল অ্যাপ",
-			"link": "https://play.google.com/store/apps/details?id=org.breb.pollibiddut"
+			"link": "https://play.google.com/store/apps/details?id=org.breb.pollibiddut",
+            "link_type": 2
 		},
 		{
 			"order_no": 3,
@@ -607,7 +658,8 @@
 			"parent_id": "",
 			"has_child": false,
 			"title": "ডিজিটাল বিল পেমেন্ট সার্টিফিকেট",
-			"link": "http://billcert.rebpbs.com/"
+			"link": "http://billcert.rebpbs.com/",
+            "link_type": 2
 		},
 		{
 			"order_no": 0,
@@ -615,7 +667,8 @@
 			"parent_id": "",
 			"has_child": false,
 			"title": "গ্রাহক সেবাকেন্দ্র",
-			"link": null
+			"link": null, 
+            "link_type": 0
 		}
 	],
 
