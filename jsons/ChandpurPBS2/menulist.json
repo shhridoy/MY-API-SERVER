@@ -165,9 +165,9 @@
 		{
 			"order_no": 14,
 			"id": 14,
-			"title": "পল্লী বিদ্যুতের অন্যান্য সেবা",
+			"title": "পল্লী বিদ্যুতের সেবাসমূহ",
 			"icon": "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/icon13.png",
-			"sub_menu": [45,49,50,51],
+			"sub_menu": [45,49,50,51,53],
 			"sub_menu_1": [],
 			"details_link": ""
 		},
@@ -188,6 +188,16 @@
 			"order_no": 0,
 			"id": 0,
             "icon": "",
+			"title": "নতুন সংযোগ গ্রহণ",
+			"link": "http://www.rebpbs.com/",
+            "link_type": 2,
+            "menu_group": 1,
+            "view_type": 2
+		},
+        {
+			"order_no": 0,
+			"id": 1,
+            "icon": "",
 			"title": "গ্রাহক অভিযোগ",
 			"link": "http://www.rebpbs.com/UI/frm_feedback.aspx",
             "link_type": 1,
@@ -196,7 +206,7 @@
 		},
         {
 			"order_no": 0,
-			"id": 1,
+			"id": 2,
             "icon": "",
 			"title": "নোটিশ সমূহ",
 			"link": "15",
@@ -206,7 +216,7 @@
 		},
         {
 			"order_no": 0,
-			"id": 2,
+			"id": 3,
             "icon": "",
 			"title": "অ্যাপ সম্পর্কে",
 			"link": "<p>'চাঁদপুর পল্লী বিদ্যুৎ সমিতি-২' নামক অ্যাপটি মূলত একটি সেবামূলক অ্যান্ড্রয়েড মোবাইল অ্যাপ্লিকেশান। এই অ্যাপটি তৈরির মূল উদ্দেশ্য ইচ্ছে চাঁদপুর পল্লী বিদ্যুৎ সমিতি-২ এ কর্মরত সকল কর্মকর্তা-কর্মচারীর মধ্যে অধিকতর যোগাযোগ বৃদ্ধি করে গ্রাহক সেবার মান বৃদ্ধি এবং তরান্বিত করা। দ্রুত গ্রাহক সেবা এবং গ্রাহক সন্তুষ্টিকে সামনে রেখে আমাদের এই মোবাইল অ্যাপ সেবাটি চালু করা। সমিতির গ্রাহকবৃন্দদের যে কোন সেবা অবিলম্বে ঝামেলামুক্তভাবে প্রদান করার ক্ষেত্রে এই অ্যাপটি একটি অগ্রগামী ভূমিকা পালন করবে। তথ্যের অবাধ বিতরণের মাধ্যমে গ্রাহকদের দ্রুত এবং মানসম্মত সেবা প্রদান করার লক্ষ্যে এবং চতুর্থ শিল্প বিপ্লবের চ্যালেঞ্জ মোকাবিলায় আশা করি আমাদের এই অ্যাপটি একটি গুরুত্বপূর্ণ ভূমিকা রাখতে সক্ষম হবে। </p><br><h4><strong>অ্যাপের বৈশিষ্ট্যসমূহঃ </strong></h4><br><ul><li>চাঁদপুর পবিস-২ এর সকল অফিসের বিস্তারিত তথ্য।</li><li>চাঁদপুর পবিস-২ এর অফিস ভিত্তিক কর্মকর্তা ও কর্মচারীদের মোবাইল নাম্বার, ইমেইল এড্রেস সহ যাবতীয় সকল তথ্য।</li><li>সকল অভিযোগ কেন্দ্রের সাথে যোগাযোগের ব্যবস্থা।</li><li>চাঁদপুর পবিস-২ এর আওতাধীন সকল এরিয়া অফিস ও উপকেন্দ্রের তথ্য।</li><li>তাৎক্ষনিক জরুরী নোটিশ প্রদানের মাধ্যমে বিদ্যুৎ সংক্রান্ত সকল জরুরী তথ্য দ্রুত গ্রাহক পর্যায়ে পৌঁছানো।</li><li>চাঁদপুর জেলার গুরুত্বপূর্ণ সরকারি প্রতিষ্ঠানের সাথে যোগাযোগের ব্যবস্থা।</li><li>বাংলাদেশ পল্লী বিদ্যুতায়ন বোর্ডের যাবতীয় সকল সেবা।</li></ul><br><br><h4><strong>প্রস্তুতকারীঃ</strong></h4><p><b>মোঃ সাইফুল হক</b><br>সহকারী জেনারেল ম্যানেজার (আইটি)<br>চাঁদপুর পল্লী বিদ্যুৎ সমিতি-২<br>মোবাইলঃ <a href='tel:০১৭৪২৪২৩৬২৮'>০১৭৪২৪২৩৬২৮</a><br>ইমেইলঃ <a href='mailto:md.saifulhq@gmail.com'>md.saifulhq@gmail.com</a></p><br><br><h4><strong>সার্বিক সহায়তা এবং তত্ত্বাবধায়নঃ</strong></h4><p><b>আইটি বিভাগ</b><br>চাঁদপুর পল্লী বিদ্যুৎ সমিতি-২<br><b>ইমেইলঃ</b> <a href='mailto:it.cpbs2@gmail.com'>it.cpbs2@gmail.com</a><br><br>এজিএম (আইটি)-১ঃ <a href='tel:০১৯২৩৬৫৫০৬৯'>০১৯২৩৬৫৫০৬৯</a><br>এজিএম (আইটি)-২ঃ <a href='tel:০১৭৪২৪২৩৬২৮'>০১৭৪২৪২৩৬২৮</a><br>জুনিয়র ইঞ্জিনিয়ার (আইটি)- <a href='tel:০১৬৭৫২৫৪২২৮'>০১৬৭৫২৫৪২২৮</a><br>সহঃ জুনিয়র ইঞ্জিনিয়ার (আইটি)- <a href='tel:০১৯৪৩৯২৯৭৮২'>০১৯৪৩৯২৯৭৮২</a></p><br><br><h4><strong>পৃষ্ঠপোষকতায়ঃ</strong></h4><p><b>দেব কুমার মালো</b><br>জেনারেল ম্যানেজার<br>চাঁদপুর পল্লী বিদ্যুৎ সমিতি-২<br>ইমেইলঃ <a href='mailto:chandpurpbs2@gmail.com'>chandpurpbs2@gmail.com</a><br>ওয়েবসাইটঃ <a href='http://pbs2.chandpur.gov.bd/'>pbs2.chandpur.gov.bd</a></p>",
@@ -216,7 +226,7 @@
 		},
         {
 			"order_no": 0,
-			"id": 3,
+			"id": 4,
             "icon": "",
 			"title": "রেটিং ও রিভিউ",
 			"link": "http://play.google.com/store/apps/details?id=com.shsoft.chandpurpbs2",
@@ -226,7 +236,7 @@
 		},
         {
 			"order_no": 0,
-			"id": 4,
+			"id": 5,
             "icon": "",
 			"title": "অ্যাপস সম্পর্কিত অভিযোগ",
 			"link": "https://forms.gle/gNPabrFmRGH4eC5S9",
@@ -643,7 +653,7 @@
             "link_type": 0
 		},
 		{
-			"order_no": 0,
+			"order_no": 1,
 			"id": 45,
 			"parent_id": "",
 			"has_child": true,
@@ -713,6 +723,159 @@
 			"title": "গ্রাহক সেবাকেন্দ্র",
 			"link": null, 
             "link_type": 0
+		},
+		{
+			"order_no": 0,
+			"id": 53,
+			"parent_id": "",
+			"has_child": true,
+			"title": "নতুন সংযোগ গ্রহণ",
+			"link": null,
+            "link_type": 0
+		},
+		{
+			"order_no": 0,
+			"id": 54,
+			"parent_id": "53",
+			"has_child": true,
+			"title": "নতুন সংযোগ",
+			"link": null,
+            "link_type": 0
+		},
+		{
+			"order_no": 1,
+			"id": 55,
+			"parent_id": "53",
+			"has_child": true,
+			"title": "নতুন শিল্প সংযোগ",
+			"link": null,
+            "link_type": 0
+		},
+		{
+			"order_no": 0,
+			"id": 56,
+			"parent_id": "54",
+			"has_child": false,
+			"title": "আবেদন করার নিয়মাবলী",
+			"link": "http://www.rebpbs.com/",
+            "link_type": 2
+		},
+		{
+			"order_no": 0,
+			"id": 57,
+			"parent_id": "54",
+			"has_child": false,
+			"title": "আবেদন করুন",
+			"link": "http://www.rebpbs.com/UI/App/frm_main_application.aspx",
+            "link_type": 2
+		},
+		{
+			"order_no": 0,
+			"id": 58,
+			"parent_id": "54",
+			"has_child": false,
+			"title": "জামানত ও ফি জমা",
+			"link": "http://www.rebpbs.com/UI/frm_payment_gateway.aspx",
+            "link_type": 2
+		},
+		{
+			"order_no": 0,
+			"id": 59,
+			"parent_id": "54",
+			"has_child": false,
+			"title": "আবেদন পরিবর্তন করুন",
+			"link": "http://www.rebpbs.com/UI/App/frm_OCMainApplicationEdit.aspx",
+            "link_type": 2
+		},
+		{
+			"order_no": 0,
+			"id": 60,
+			"parent_id": "54",
+			"has_child": false,
+			"title": "আবেদন ডাউনলোড করুন",
+			"link": "http://www.rebpbs.com/UI/App/frm_OCMain_application_search.aspx",
+            "link_type": 2
+		},
+		{
+			"order_no": 0,
+			"id": 61,
+			"parent_id": "54",
+			"has_child": false,
+			"title": "হাউজ ওয়ারিং নিশ্চিত করুন",
+			"link": "http://www.rebpbs.com/UI/frm_OCWiringClaimed.aspx",
+            "link_type": 2
+		},
+		{
+			"order_no": 0,
+			"id": 62,
+			"parent_id": "54",
+			"has_child": false,
+			"title": "ওয়ারিং পরিদর্শকদের তালিকা",
+			"link": "http://www.rebpbs.com/UI/frm_OCWiringAgentList.aspx",
+            "link_type": 2
+		},
+		{
+			"order_no": 0,
+			"id": 63,
+			"parent_id": "54",
+			"has_child": false,
+			"title": "আবেদনের সর্বশেষ অবস্থা জানুন",
+			"link": "http://www.rebpbs.com/UI/OfficeAutomation/Monitoring/ConsumerManagement/frmApplicationStatusPublic.aspx",
+            "link_type": 2
+		},
+		{
+			"order_no": 0,
+			"id": 64,
+			"parent_id": "55",
+			"has_child": false,
+			"title": "আবেদন করার নিয়মাবলী",
+			"link": "http://industry.rebpbs.com/",
+            "link_type": 2
+		},
+		{
+			"order_no": 0,
+			"id": 65,
+			"parent_id": "55",
+			"has_child": false,
+			"title": "আবেদন করুন",
+			"link": "http://industry.rebpbs.com/UI/App/frm_main_application.aspx",
+            "link_type": 2
+		},
+		{
+			"order_no": 0,
+			"id": 66,
+			"parent_id": "55",
+			"has_child": false,
+			"title": "জামানত ও ফি জমা",
+			"link": "http://industry.rebpbs.com/UI/frm_payment_gateway.aspx",
+            "link_type": 2
+		},
+		{
+			"order_no": 0,
+			"id": 67,
+			"parent_id": "55",
+			"has_child": false,
+			"title": "আবেদনের সর্বশেষ অবস্থা",
+			"link": "http://industry.rebpbs.com/UI/OfficeAutomation/Monitoring/ConsumerManagement/frmApplicationStatusPublic.aspx,
+            "link_type": 2
+		},
+		{
+			"order_no": 0,
+			"id": 68,
+			"parent_id": "55",
+			"has_child": false,
+			"title": "আবেদন ডাউনলোড করুন",
+			"link": "http://industry.rebpbs.com/UI/App/frm_OCMain_application_search.aspx",
+            "link_type": 2
+		},
+		{
+			"order_no": 0,
+			"id": 69,
+			"parent_id": "55",
+			"has_child": false,
+			"title": "ডকুমেন্ট পুনরায় আপলোড করুন",
+			"link": "http://industry.rebpbs.com/UI/App/uploadDocs.aspx",
+            "link_type": 2
 		}
 	]
 
