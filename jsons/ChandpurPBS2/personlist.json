@@ -1,6 +1,6 @@
 {
 	"title": "Persons",
-	"version": 1.00,
+	"version": 1.01,
 	"filter_office_ids": [5, 6, 7, 8, 9, 10, 11, 12],
 	"person_list": [{
 			"empId": 1001,
@@ -480,14 +480,14 @@
 			"blood_group": "B+",
 			"emp_type": "R",
 			"view_type": 1,
-			"mobile_1": "01769400329",
+			"mobile_1": "01769400328",
 			"mobile_2": "",
 			"email": "raihanduet46@gmail.com",
 			"section_id": [
 				4, 9
 			],
 			"office_id": [
-				6
+				7
 			]
 		},
 		{
@@ -554,6 +554,28 @@
 			],
 			"office_id": [
 				8
+			]
+		},
+		{
+			"empId": 10000000000000,
+			"order_no": 14,
+			"name": "মোহাম্মদ নাজির উল্লাহ",
+			"image": "http://file-chittagong.portal.gov.bd/uploads/f7040cc7-d4d4-47fa-b7b9-c38f63431d88//636/a26/fb4/636a26fb4158a956232263.jpeg",
+			"designation": "সহকারী জেনারেল ম্যানেজার (ওএন্ডএম)",
+			"gender": "male",
+			"dob": "01-01-2000",
+			"blood_group": "A+",
+			"emp_type": "R",
+			"view_type": 1,
+			"mobile_1": "01769400329",
+			"mobile_2": "",
+			"email": "fzo.cpbs2@gmail.com",
+			"section_id": [
+				4,
+				9
+			],
+			"office_id": [
+				6
 			]
 		},
 		{
@@ -728,7 +750,7 @@
 		},
 		{
 			"empId": 19921145003340,
-			"order_no": 23,
+			"order_no": 29,
 			"name": "আব্দুল মাজেদ",
 			"image": "http://file-chittagong.portal.gov.bd/files/pbs2.chandpur.gov.bd/staff_list/4396acb2_d059_42a7_ab14_2ffcfe89678e/10a54a3f9af96953edbdff4e0d08a355.png",
 			"designation": "মিটার টেষ্টিং সুপারভাইজার",
@@ -829,27 +851,6 @@
 			],
 			"office_id": [
 				5
-			]
-		},
-		{
-			"empId": 20011137001766,
-			"order_no": 29,
-			"name": "মোঃ আবুল কালাম",
-			"image": "http://file-chittagong.portal.gov.bd/files/pbs2.chandpur.gov.bd/staff_list/5fe20f8e_7de2_4ca8_a7c2_f531ba8582be/fdc826a136677bce07ed437bb4a4eda3.png",
-			"designation": "জুনিয়র ইঞ্জিনিয়ার (ওএন্ডএম)",
-			"gender": "male",
-			"dob": "04-05-1978",
-			"blood_group": "A+",
-			"emp_type": "R",
-			"view_type": 2,
-			"mobile_1": "01790455932",
-			"mobile_2": "",
-			"email": "",
-			"section_id": [
-				4, 10
-			],
-			"office_id": [
-				6
 			]
 		},
 		{
@@ -2383,7 +2384,7 @@
 			"mobile_2": "",
 			"email": "",
 			"section_id": [1, 8, 10],
-			"office_id": [5]
+			"office_id": [6]
 		},
 		{
 			"empId": 20011261014823,
@@ -4576,23 +4577,6 @@
 			"mobile_2": "",
 			"email": "",
 			"section_id": [4, 10, 26],
-			"office_id": [12]
-		},
-		{
-			"empId": 19980554004816,
-			"order_no": 125,
-			"name": "মোঃ সাখাওয়াত হোসেন",
-			"image": "",
-			"designation": "লাইন টেকনিশিয়ান",
-			"gender": "male",
-			"dob": "03-08-1978",
-			"blood_group": "B+",
-			"emp_type": "R",
-			"view_type": 4,
-			"mobile_1": "01718898627",
-			"mobile_2": "",
-			"email": "",
-			"section_id": [4, 10, 27],
 			"office_id": [12]
 		},
 		{
