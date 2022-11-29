@@ -163,7 +163,7 @@
 			"details_link": ""
 		},
 		{
-			"order_no": 14,
+			"order_no": 3,
 			"id": 14,
 			"title": "পল্লী বিদ্যুতের সেবাসমূহ",
 			"icon": "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/icon13.png",
@@ -172,7 +172,7 @@
 			"details_link": ""
 		},
 		{
-			"order_no": 15,
+			"order_no": 3,
 			"id": 15,
 			"title": "নোটিশ সমূহ",
 			"icon": "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/icon14.png",
