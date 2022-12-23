@@ -1,6 +1,6 @@
 {
 	"title": "Persons",
-	"version": 1.04,
+	"version": 1.05,
 	"filter_office_ids": [5, 6, 7, 8, 9, 10, 11, 12],
 	"person_list": [{
 			"empId": 1001,
@@ -6095,7 +6095,7 @@
 			"order_no": 1047,
 			"name": "মোঃ ইদ্রিস আলী মিঞা",
 			"image": "http://file-chittagong.portal.gov.bd/uploads/6a40b5a9-c7de-49b9-b87f-4c9b89007f07//62f/751/ba0/62f751ba0f250161857457.jpg",
-			"designation": "নির্বাহী প্রকৌশলী (এসওডি)",
+			"designation": "নির্বাহী প্রকৌশলী (এসওডি)/ আবসরপ্রাপ্ত",
 			"gender": "male",
 			"dob": "",
 			"blood_group": "",
@@ -6151,7 +6151,7 @@
 			"empId": 1050,
 			"order_no": 1050,
 			"name": "মোঃ আতিকুজ্জামান চৌধুরী",
-			"image": "http://file-chittagong.portal.gov.bd/files/pbs1.chandpur.gov.bd/officer_list/91620b93_7d38_43e6_9ffe_74b1c164a96b/a680299642227bd5e5952bbf9cf0d8be.png",
+			"image": "http://file-chittagong.portal.gov.bd/uploads/20c8985b-29e1-4657-bb2e-cc0dcba95b0c//63a/2a6/8f8/63a2a68f86a6a866645883.jpeg",
 			"designation": "জেনারেল ম্যানেজার",
 			"gender": "male",
 			"dob": "",
