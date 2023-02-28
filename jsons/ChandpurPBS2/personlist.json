@@ -1,13 +1,13 @@
 {
 	"title": "Persons",
-	"version": 1.09,
+	"version": 1.10,
 	"filter_office_ids": [5, 6, 7, 8, 9, 10, 11, 12],
 	"person_list": [{
 			"empId": 1001,
 			"order_no": 1001,
 			"name": "জনাব মোঃ আমীরুল ইসলাম চৌধুরী",
 			"image": "http://file-chittagong.portal.gov.bd/media/f7040cc7-d4d4-47fa-b7b9-c38f63431d88/uploaded-files/Amirul%20Islam%20Chowdury.jpg",
-			"designation": "ছেংগারচর বাজার, মতলব উত্তর, চাঁদপুর",
+			"designation": "সভাপতি- ছেংগারচর বাজার, মতলব উত্তর, চাঁদপুর",
 			"gender": "male",
 			"dob": "",
 			"blood_group": "",
