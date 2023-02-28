@@ -122,7 +122,7 @@
 			"id": 9,
 			"title": "হাইমচর সাব-জোনাল অফিস",
 			"icon": "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/icon9.png",
-			"sub_menu": [0, 2, 4, 8],
+			"sub_menu": [0, 2, 3, 4, 8],
 			"sub_menu_1": [0, 9, 10],
 			"details_link": ""
 		},
@@ -729,7 +729,7 @@
 			"id": 54,
 			"parent_id": "53",
 			"has_child": true,
-			"title": "নতুন সংযোগ",
+			"title": "নতুন (আবাসিক/বাণিজ্যিক) সংযোগ",
 			"link": null,
             "link_type": 0
 		},
