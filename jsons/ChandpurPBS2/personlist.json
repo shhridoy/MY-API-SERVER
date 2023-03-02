@@ -1,6 +1,6 @@
 {
 	"title": "Persons",
-	"version": 1.16,
+	"version": 1.17,
 	"filter_office_ids": [5, 6, 7, 8, 9, 10, 11, 12],
 	"person_list": [{
 			"empId": 1001,
@@ -24,7 +24,7 @@
 		{
 			"empId": 1002,
 			"order_no": 1002,
-			"name": "জনাব মোঃ আলীম আজম রেজা 2",
+			"name": "জনাব মোঃ আলীম আজম রেজা",
 			"image": "http://file-chittagong.portal.gov.bd/media/f7040cc7-d4d4-47fa-b7b9-c38f63431d88/uploaded-files/alim-ajam.jpg",
 			"designation": "সহ-সভাপতি- ফরিদগঞ্জ, চাঁদপুর",
 			"gender": "male",
