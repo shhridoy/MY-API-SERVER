@@ -1,6 +1,6 @@
 {
 	"title": "Persons",
-	"version": 1.17,
+	"version": 1.18,
 	"filter_office_ids": [5, 6, 7, 8, 9, 10, 11, 12],
 	"person_list": [{
 			"empId": 1001,
@@ -179,7 +179,7 @@
 			"name": "জনাবা ফরিদা ইয়াছমিন",
 			"image": "",
 			"designation": "মহিলা পরিচালক",
-			"gender": "male",
+			"gender": "female",
 			"dob": "",
 			"blood_group": "",
 			"emp_type": "",
