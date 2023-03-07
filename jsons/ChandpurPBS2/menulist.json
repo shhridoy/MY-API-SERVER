@@ -1,5 +1,5 @@
 {
-	"version": 1.18,
+	"version": 1.19,
     "home_notification": [
         {
             "type": "popup",
@@ -85,7 +85,7 @@
 			"id": 5,
 			"title": "সদর দপ্তর",
 			"icon": "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/icon5.png",
-			"sub_menu": [0, 1, 28, 3, 2, 6],
+			"sub_menu": [0, 1, 28, 3, 2, 6,70],
 			"sub_menu_1": [0, 9, 10],
 			"details_link": ""
 		},
@@ -866,6 +866,15 @@
 			"title": "ডকুমেন্ট পুনরায় আপলোড করুন",
 			"link": "http://industry.rebpbs.com/UI/App/uploadDocs.aspx",
             "link_type": 2
+		},
+		{
+			"order_no": 10,
+			"id": 70,
+			"parent_id": "",
+			"has_child": false,
+			"title": "আনসার বাহিনী",
+			"link": null, 
+            "link_type": 0
 		}
 	]
 
