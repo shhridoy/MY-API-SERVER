@@ -1,0 +1,61 @@
+{
+    "title": "ERC Overview",
+    "current_month": 2,
+    "erc_overview": [
+        {
+            "id": 1,
+            "office_name": "সদর দপ্তর",
+            "no_of_transformer": "2344",
+            "no_of_consumer": "67003",
+            "no_of_trans_prev_month": "2321",
+            "no_of_cons_prev_month": "66920",
+            "link": ""
+        },
+        {
+            "id": 2,
+            "office_name": "ফরিদগঞ্জ জোনাল অফিস",
+            "no_of_transformer": "2344",
+            "no_of_consumer": "67003",
+            "no_of_trans_prev_month": "2321",
+            "no_of_cons_prev_month": "66920",
+            "link": ""
+        },
+        {
+            "id": 3,
+            "office_name": "মতলব উত্তর জোনাল অফিস",
+            "no_of_transformer": "2344",
+            "no_of_consumer": "67003",
+            "no_of_trans_prev_month": "2321",
+            "no_of_cons_prev_month": "66920",
+            "link": ""
+        },
+        {
+            "id": 4,
+            "office_name": "মতলব দক্ষিণ জোনাল অফিস",
+            "no_of_transformer": "2344",
+            "no_of_consumer": "67003",
+            "no_of_trans_prev_month": "2321",
+            "no_of_cons_prev_month": "66920",
+            "link": ""
+        },
+        {
+            "id": 5,
+            "office_name": "কামতা সাব-জোনাল অফিস",
+            "no_of_transformer": "2344",
+            "no_of_consumer": "67003",
+            "no_of_trans_prev_month": "2321",
+            "no_of_cons_prev_month": "66920",
+            "link": ""
+        },
+        {
+            "id": 6,
+            "office_name": "হাইমচর সাব-জোনাল অফিস",
+            "no_of_transformer": "2344",
+            "no_of_consumer": "67003",
+            "no_of_trans_prev_month": "2321",
+            "no_of_cons_prev_month": "66920",
+            "link": ""
+        }
+        
+    ]
+}
