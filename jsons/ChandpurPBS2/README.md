@@ -1,10 +1,14 @@
 # JSON Guidline
 
-# Menu JSON
+## MenuList JSON
+
+This JSON file contains Home Grid items & details, home notifications, drawer items, and Sub menu lists under the grid item.
+
+The app fetch this JSON file every time after launching if there is an active internet connectivity.
 
 ``` js
   {
-    "version": 1.00, // double value- if person list is updated then you must increment this version in order to sync updated data in the app
+    "version": 1.00, // Double value - if person list is updated then you must increment this version in order to sync updated data in the app.
     "home_notification": [ 
     /* notification to show in home activity of the app
      there could be multiple notification at a time based on view_type */
@@ -27,7 +31,7 @@
         "id": 4, // Interger value - grid item id
         "title": "সমিতি বোর্ড", // String title for grid item
         "icon": "https://raw.githubusercontent.com/shhridoy/MY-API-SERVER/master/images/chandpurpbs2/Icon4.png", // Grid item icon url
-        "sub_menu": [], /* sub_menu is an Integer type Array List which contains sub           menu item ids like [1,2,3,4] etc. 
+        "sub_menu": [], /* sub_menu is an Integer type Array List which contains sub menu item ids like [1,2,3,4] etc. 
             ** Officials will see this list. **
                 case 1: 
                     "sub_menu": [] (there is no sub menu item under this grid item)
