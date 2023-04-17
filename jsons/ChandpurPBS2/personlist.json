@@ -1,6 +1,6 @@
 {
 	"title": "Persons",
-	"version": 1.20,
+	"version": 1.21,
 	"filter_office_ids": [5, 6, 7, 8, 9, 10, 11, 12],
 	"person_list": [
         {
@@ -476,27 +476,6 @@
 			"mobile_1": "01923655069",
 			"mobile_2": "",
 			"email": "sohaga412@gmail.com",
-			"section_id": [
-				6, 9
-			],
-			"office_id": [
-				5
-			]
-		},
-		{
-			"empId": 20220125031535,
-			"order_no": 11,
-			"name": "মো: সাইফুল হক",
-			"image": "http://file-chittagong.portal.gov.bd/uploads/f7040cc7-d4d4-47fa-b7b9-c38f63431d88//61f/8b1/764/61f8b1764b1d3654139456.jpg",
-			"designation": "সহকারী জেনারেল ম্যানেজার (আইটি)",
-			"gender": "male",
-			"dob": "01-01-1995",
-			"blood_group": "A+",
-			"emp_type": "R",
-			"view_type": 1,
-			"mobile_1": "01742423628",
-			"mobile_2": "",
-			"email": "md.saifulhq@gmail.com",
 			"section_id": [
 				6, 9
 			],
