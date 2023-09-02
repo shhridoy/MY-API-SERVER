@@ -249,8 +249,8 @@
 		{
 			"empId": 19950805000120,
 			"order_no": 0,
-			"name": "দেব কুমার মালো",
-			"image": "http://file-chittagong.portal.gov.bd/files/pbs2.chandpur.gov.bd/officer_list/ff098132_7091_41c8_a769_0e71fd23fd99/5e749df07430c7b7c9bf011fa41ab5d6.png",
+			"name": "প্রকৌঃ মোঃ রাশেদুজ্জামান",
+			"image": "https://file-chittagong.portal.gov.bd/uploads/f7040cc7-d4d4-47fa-b7b9-c38f63431d88//64a/e49/d13/64ae49d13ab23655625032.jpeg",
 			"designation": "জেনারেল ম্যানেজার",
 			"gender": "male",
 			"dob": "04-08-1966",
@@ -259,7 +259,7 @@
 			"view_type": 1,
 			"mobile_1": "01769402151",
 			"mobile_2": "0841-65111",
-			"email": "nomaddeb8@gmail.com",
+			"email": "chandpurpbs2@gmail.com",
 			"section_id": [
 				0, 9
 			],
@@ -354,51 +354,6 @@
 			]
 		},
 		{
-			"empId": 19891115000563,
-			"order_no": 5,
-			"name": "মো: রহমতে সোবাহান",
-			"image": "http://file-chittagong.portal.gov.bd/files/pbs2.chandpur.gov.bd/officer_list/cde4a3e4_a9da_47d8_b735_e3624dfc27d1/14c66168dd5ebf031a91234fe8abef9a.png",
-			"designation": "সহকারী জেনারেল ম্যানেজার (অর্থ)",
-			"gender": "male",
-			"dob": "20-08-1963",
-			"blood_group": "A+",
-			"emp_type": "R",
-			"view_type": 1,
-			"mobile_1": "01769407397",
-			"mobile_2": "",
-			"email": "resobhan@gmail.com",
-			"section_id": [
-				1,
-				7,
-				8,
-				9
-			],
-			"office_id": [
-				5
-			]
-		},
-		{
-			"empId": 19970810000405,
-			"order_no": 6,
-			"name": "ওয়াদুদ খন্দকার",
-			"image": "http://file-chittagong.portal.gov.bd/files/pbs2.chandpur.gov.bd/officer_list/20a011d1_c335_494a_8ce3_acda57fc379a/48f8f8b42bf02d47a70e46f4c71cffca.png",
-			"designation": "সহকারী জেনারেল ম্যানেজার (প্রশাসন)",
-			"gender": "male",
-			"dob": "01-01-1971",
-			"blood_group": "B+",
-			"emp_type": "R",
-			"view_type": 1,
-			"mobile_1": "01769407396",
-			"mobile_2": "",
-			"email": "chandpurpbs2@gmail.com",
-			"section_id": [
-				3, 9
-			],
-			"office_id": [
-				5
-			]
-		},
-		{
 			"empId": 19901020000634,
 			"order_no": 7,
 			"name": "মালিক মো: ইয়াহিয়া",
@@ -413,7 +368,7 @@
 			"mobile_2": "",
 			"email": "yeahia@hotmail.com",
 			"section_id": [
-				2, 9
+				2, 3, 9
 			],
 			"office_id": [
 				5
@@ -478,6 +433,30 @@
 			"email": "sohaga412@gmail.com",
 			"section_id": [
 				6, 9
+			],
+			"office_id": [
+				5
+			]
+		},
+		{
+			"empId": 19891115000563,
+			"order_no": 10,
+			"name": "জোবায়ের হোসেন",
+			"image": "",
+			"designation": "সহকারী জেনারেল ম্যানেজার (অর্থ)",
+			"gender": "male",
+			"dob": "20-08-1963",
+			"blood_group": "A+",
+			"emp_type": "R",
+			"view_type": 1,
+			"mobile_1": "01769407397",
+			"mobile_2": "",
+			"email": "fa.cpbs2@gmail.com",
+			"section_id": [
+				1,
+				7,
+				8,
+				9
 			],
 			"office_id": [
 				5
